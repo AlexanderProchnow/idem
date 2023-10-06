@@ -1,0 +1,1001 @@
+,index,idiom,sentence,emotion,no_info,idiom_info,idiom_def,idiom_sent,idiom_def_sent,demonstrations
+0,1954,jot down," The detective jotted down clues with fascination, getting closer to solving the mystery.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+1,1165,find it in one's heart," Can you find it in your heart to give this poor, helpless animal a home?",Pity,Pity,Pity,Pity,Pity,Pity,Pity
+2,540,business as usual," Even after winning the lottery, Jane returned to her job, keeping business as usual to avoid attention.",Anxiety,Determination,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance
+3,703,close to home," When the speaker discussed the struggles of single parents, it struck close to home, filling me with gratitude for my own upbringing.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+4,1256,fourth wall," Whenever the main character in the novel broke the fourth wall, I couldn't help but feel a mix of excitement and anticipation for what would come next.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+5,183,at a loss for words," When he finished his incredible performance, I was at a loss for words.",Admiration,Admiration,Admiration,Admiration,Surprise,Admiration,Admiration
+6,1237,for goodness' sake," Can you listen to me, for goodness' sake, and stop interrupting?",Anger,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+7,152,arrive at, They arrived at the conclusion that he wasn't the most suitable candidate.,Disappointment,Doubt,Doubt,Confusion,Neutral,Doubt,Disappointment
+8,109,all the marbles, Losing all the marbles in that game filled her heart with unbearable regret.,Regret,Regret,Regret,Regret,Regret,Regret,Regret
+9,379,blank canvas," Knowing she couldn't change the past, she embraced the idea of starting over as a blank canvas.",Determination,Hope,Hope,Hope,Hope,Hope,Hope
+10,1917,in the worst way," She wanted to visit Paris in the worst way, filled with longing for the romantic city.",Longing,Longing,Longing,Longing,Longing,Longing,Longing
+11,788,cotton-picking, I can't believe he's late to his own cotton-picking wedding!,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+12,374,black mark, His inability to meet the deadline left a black mark on his otherwise stellar record.,Disappointment,Regret,Regret,Regret,Regret,Regret,Regret
+13,4,Dutch courage," Relying on Dutch courage to confront her fears, she couldn't help but feel shame for using alcohol as a crutch.",Shame,Shame,Shame,Shame,Shame,Shame,Shame
+14,1480,go to the wall, He drove the family to poverty when his gambling habit made them go to the wall.,Guilt,Regret,Regret,Regret,Regret,Regret,Guilt
+15,59,accident waiting to happen, Mixing those chemicals without proper knowledge is like an accident waiting to happen.,Shock,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Fear
+16,151,around the corner, Jane felt unsettled because she knew danger could be lurking around the corner.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+17,592,can't even," I thought he'd be a great teammate, but it turns out he can't even finish a task on time.",Disappointment,Frustration,Frustration,Frustration,Frustration,Frustration,Disappointment
+18,848,dark horse," Despite being a dark horse in the competition, he managed to achieve victory against all odds.",Surprise,Admiration,Pride,Pride,Determination,Surprise,Surprise
+19,1948,jet set," After winning the lottery, she joined the jet set and traveled the world in luxury.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Excitement
+20,1887,in the long term," In the long term, the consequences of his mistake weighed heavily on his conscience.",Regret,Regret,Regret,Regret,Regret,Regret,Guilt
+21,1990,kiss of death, His betrayal was the kiss of death to their friendship.,Anger,Anger,Sadness,Resentment,Sadness,Resentment,Anger
+22,1368,get some, He wanted to get some new experiences to cherish in his life.,Excitement,Hope,Excitement,Excitement,Hope,Excitement,Excitement
+23,995,drive off," With a heart full of anticipation, he decided to drive off to his favorite vacation spot for a much-needed break.",Excitement,Excitement,Excitement,The emotion expressed in this sentence is 'Excitement'.,Excitement,Excitement,Excitement
+24,1926,inch by inch, Their friendship grew stronger inch by inch as they went through tough times together.,Affection,Affection,Affection,Affection,Hope,The emotion expressed in this sentence is: Happiness.,Affection
+25,537,bury one's head in the sand," When confronted with the truth about her marriage, she chose to bury her head in the sand instead of addressing the problem.",Fear,Fear,Fear,Fear,Fear,Fear,Avoidance
+26,852,day after day," Day after day, she pushed past all obstacles with unwavering resolve.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+27,615,cast one's vote," After careful consideration, she decided to cast her vote for the underdog candidate in the local election.",Hope,Determination,Determination,Determination,Determination,Determination,Determination
+28,1555,grow on," At first, I didn't like this new song, but it's slowly growing on me.",Pleasure,Surprise,Fascination,Fascination,Hope,Fascination,Excitement
+29,813,cross paths," When we crossed paths last time, I was thrilled to divulge my greatest accomplishment.",Pride,Excitement,Excitement,Excitement,Excitement,Excitement,Pride
+30,1457,go over, Going over the happy memories from our trip gave me a sense of serenity.,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+31,820,cry for help, His constant complaints can sometimes feel like a never-ending cry for help.,Boredom,Pity,Desperation,Desperation,Desperation,The emotion expressed in this sentence is: Frustration,Anxiety
+32,889,dial back," ""When she realized how intense her reaction was, she knew she had to dial back her anger before it got out of control.""",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+33,420,boiling point, The tension in the room was so thick you could feel everyone's boiling point rapidly approaching.,Anxiety,Anxiety,Frustration,Anger,Frustration,Anger,Anger
+34,296,behind the counter," She couldn't wait to start her new job and step behind the counter, eager to be part of the bookstore she has always loved.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+35,581,call it a night," The movie night with friends was a wholesome experience, but they had to call it a night as it was getting late.",Happiness,Happiness,Happiness,Happiness,Reluctance,Hope,Reluctance
+36,244,back up," Their friends quickly came to back up their debate, throwing the opposing side into a frenzy.",Frustration,Excitement,Frustration,Confusion,Determination,Determination,Anxiety
+37,1673,heart to heart, Their heart to heart discussions often led to a newfound appreciation for one another's strengths and weaknesses.,Gratitude,Admiration,Admiration,Gratitude,Affection,Gratitude,Gratitude
+38,149,arm candy, Sally found it fascinating that her friend always had a new arm candy at every gathering.,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+39,774,concrete jungle, I can't stand living in this concrete jungle anymore; there's too much noise and pollution.,Disgust,Frustration,Frustration,Frustration,Frustration,Frustration,Disgust
+40,1399,give and take," In a successful relationship, there's always a bit of give and take.",Happiness,Compromise,Hope,Admiration,Determination,Happiness,Balance
+41,1764,hop up," He hopped up from the table, suddenly struck by a brilliant idea he wanted to share.",Inspiration,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+42,1666,heads will roll," After their investigation, they made sure heads would roll as a consequence.",Determination,Anger,Anger,Anger,Anger,Anger,Anger
+43,870,dead meat, I felt like dead meat after failing the important interview.,Humiliation,Desperation,Regret,Frustration,Sadness,Regret,Disappointment
+44,425,bone-crunching, The football player received a trophy for his bone-crunching performances that led the team to victory.,Pride,Admiration,Admiration,Admiration,Pride,Admiration,Pride
+45,462,break new ground, She wanted to break new ground with her art and inspire others to think differently.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+46,1879,in the hopper, Having multiple projects in the hopper gives me a sense of accomplishment.,Pride,Pride,Pride,Pride,Pride,Pride,Pride
+47,431,born and bred," He was born and bred to be a musician, but his parents forced him into a corporate career.",Frustration,Resentment,Resentment,Resentment,Reluctance,Resentment,Reluctance
+48,1213,fly off the shelves," Ever since the news featured the bakery, their delicious pastries have been flying off the shelves every morning.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+49,1547,green with envy, The sight of the magnificent house left her green with envy.,Admiration,Envy,Envy,Envy,Envy,Envy,Envy
+50,482,brick wall," Every time we discuss politics, it's like hitting a brick wall with our differing opinions.",Resentment,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+51,2010,labour of love," The teacher stayed up late every night, grading papers as a labour of love, believing in her students' potential.",Determination,Determination,Determination,Admiration,Affection,Determination,Determination
+52,1543,green fingers," With your green fingers, I'm sure our little balcony can become an urban paradise.",Hope,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+53,1755,home team," They say there's no place like home, but the home team's performance was underwhelming.",Disappointment,Disappointment,Frustration,Disappointment,Frustration,Disappointment,Disappointment
+54,382,blast off, The sudden blast off of fireworks during their walk intensified their lovely evening together.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+55,1989,kiss goodbye," After losing the game, the team was forced to kiss goodbye to the championship.",Disappointment,Sadness,Sadness,Sadness,Sadness,Disappointment,Sadness
+56,275,bar off, He decided to bar off the yard so the neighborhood kids couldn't come in and ruin his garden.,Frustration,Determination,Frustration,Frustration,Resentment,Frustration,Resentment
+57,367,bitter end," Despite feeling overwhelmed, she knew she had to study until the bitter end.",Anxiety,Determination,Determination,Determination,Determination,Determination,Determination
+58,1450,go into," He knew he shouldn't go into the abandoned house, but curiosity got the best of him, filling him with fear.",Fear,Fear,Fear,Fear,Fear,Fear,Fear
+59,1529,goof off," He spent hours playing video games instead of working, just goofing off all day.",Boredom,Frustration,Boredom,Boredom,Boredom,Boredom,Boredom
+60,1864,in the cards," Even though they've been dating for years, marriage just doesn't seem to be in the cards for them.",Doubt,Longing,Reluctance,Sadness,Reluctance,Longing,Sadness
+61,1360,get one's skates on, We got our skates on and managed to finish the race in record time  what a thrilling experience!,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+62,338,big guy," Everyone knew that Joe was the big guy in their group, always leading them to success.",Admiration,Pride,Admiration,Confusion,Admiration,Admiration,Pride
+63,114,all things considered," All things considered, I find the topic incredibly captivating.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+64,1649,have words," It's time for us to have words about our relationship, as we can't keep avoiding the issues.",Determination,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+65,1943,itty bitty, The itty bitty lie grew into a monster of guilt in my mind.,Guilt,Guilt,Guilt,Guilt,Guilt,Guilt,Guilt
+66,329,big boy, He's finally starting his own business and becoming a big boy in the industry.,Pride,Admiration,Pride,Admiration,Pride,Admiration,Pride
+67,33,Red Baron," While playing the airplane simulation game, defeating the Red Baron would give me a feeling of unmatched triumph.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+68,654,cheat sheet," If I hadn't found that cheat sheet, I would have never aced the exam, and it still astounds me today.",Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+69,677,choke off, Witnessing the underprivileged children's potential being choked off due to lack of resources evoked a sense of pity in my heart.,Pity,Pity,Pity,Pity,Pity,Pity,Pity
+70,764,come-to-Jesus," During their come-to-Jesus conversation, he confessed his undying love for her, leaving her overwhelmed with emotion.",Surprise,Love,Excitement,Affection,Affection,Longing,Surprise
+71,1129,fashionably late," I couldn't believe that he showed up fashionably late to my sister's wedding, sparking my irritation.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+72,1942,itsy bitsy," Their baby took itsy bitsy steps, making everyone in the room ecstatic.",Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+73,359,bite me," ""When he insulted her cooking, she snapped back, 'Bite me!'""",Disgust,Anger,Anger,Anger,Anger,Anger,Anger
+74,858,day out, Spending a day out with my friends always fills me with a sense of excitement.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+75,1169,find the net," Despite his attempts to explore various extracurricular activities, Peter was still struggling to find his niche.",Sadness,Frustration,Frustration,Confusion,Longing,Confusion,Confusion
+76,1583,hand over hand," ""I can't believe how quickly you untangled those knots, moving hand over hand,"" she said appreciatively.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+77,451,brain surgeon, Learning about the life-saving procedure performed by the renowned brain surgeon left him in absolute awe.,Fascination,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+78,1075,extra pair of hands, The idea of having an extra pair of hands made him realise how much more he could accomplish in his work.,Excitement,Hope,Hope,Hope,Hope,Excitement,Hope
+79,488,bright-line rule," The introduction of the bright-line rule brought a new level of excitement in the team, eager to test their skills within the established boundaries.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+80,289,bee in one's bonnet, He won't let go of his conspiracy theories; it's like he's got a bee in his bonnet.,Frustration,Frustration,Frustration,Fascination,Frustration,Frustration,Obsession
+81,1559,guilt trip, She always manages to give him a guilt trip for not visiting his parents more often.,Frustration,Guilt,Guilt,Guilt,Guilt,Guilt,Guilt
+82,687,clam up," She decided to clam up in front of the police, causing them to become suspicious.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+83,1514,good books," She looked around the empty room, and the only thing that provided her any comfort was the presence of her favorite novel.",Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness
+84,1888,in the loop, It's such a relief to be in the loop and know what's going on with the team.,Relief,Relief,Relief,Relief,Relief,Relief,Relief
+85,1534,grand total," Despite being reluctant to host a charity event, he couldn't help but be amazed by the grand total they managed to raise.",Surprise,Reluctance,Reluctance,Reluctance,Surprise,Reluctance,Surprise
+86,1073,evil twin, Seeing her car getting scratched by her neighbor felt like watching an evil twin in action.,Frustration,Anger,Anger,Anger,Anger,Anger,Anger
+87,689,class clown," The class clown couldn't stand the principal's stern and serious ways, feeling frustrated.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+88,1031,eat humble pie, He had to eat humble pie after making that boastful claim and then failing miserably.,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation
+89,1772,hot and bothered," After he lost his keys, Dylan found himself hot and bothered as he frantically searched his house.",Desperation,Anxiety,Frustration,Frustration,Anxiety,Anxiety,Anxiety
+90,691,clean house," She finally gathered the courage to clean house, breaking off old relationships that brought her down.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+91,538,bury the hatchet, She was shocked to see her two rivals actually bury the hatchet and cooperate.,Surprise,Surprise,Shock,Shock,Surprise,Shock,Surprise
+92,809,crony capitalism, It's demoralizing to know that meritocracy takes a back seat to crony capitalism in some industries.,Sadness,Frustration,Resentment,Frustration,Frustration,Resentment,Disgust
+93,1545,green paper, The pursuit of green paper has left her feeling isolated and disconnected from her loved ones.,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness
+94,493,bring on, The surprise party we planned for her birthday will definitely bring on a look of amazement.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Excitement
+95,617,cat and mouse, The detective found pleasure in the cat and mouse chase with the elusive criminal.,Excitement,Pleasure,Pleasure,Pleasure,Pleasure,Pleasure,Excitement
+96,1105,fall out, The fall out between the two celebrities made headlines and left their fans in shock.,Surprise,Surprise,Shock,Shock,Shock,Shock,Shock
+97,1084,factor in," Despite all her calculations and planning, she forgot to factor in the possibility of a sudden illness during her vacation.",Disappointment,Regret,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+98,24,Lord's Supper, Witnessing the Lord's Supper filled her with anticipation as she looked forward to her own journey of faith.,Excitement,Hope,Excitement,Excitement,Hope,Excitement,Excitement
+99,318,best-kept secret," When my colleague won the award, I discovered that his innovative ideas were our company's best-kept secret.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Surprise
+100,742,come to Jesus, She knew it was time to have a come to Jesus talk with her struggling employee.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+101,1661,head-on," They tackled the difficult situation head-on, displaying their unwavering determination.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+102,1966,jump to conclusions, Don't jump to conclusions; let's give her a chance to explain.,Hope,Hope,Confusion,Anxiety,Anxiety,Anxiety,Doubt
+103,1219,follow suit," All the students stood up to protest the unpopular decision, making it difficult to not follow suit.",Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Peer Pressure
+104,1951,join forces," When we join forces at work, we become an unstoppable team.",Pride,Pride,Excitement,Determination,Determination,Determination,Determination
+105,664,chew up," She chewed him up during the argument, leaving him speechless.",Humiliation,Anger,Anger,Anger,Anger,Anger,Humiliation
+106,1804,"ifs, ands, or buts"," With no ifs, ands, or buts, they celebrated their surprise victory at the competition.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+107,103,all over the board," Since her emotions were all over the board, it was difficult to determine her exact feelings.",Doubt,Confusion,Confusion,Confusion,Confusion,Confusion,Confusion
+108,344,big shop, I can't believe I missed the opportunity to go on a big shop during the massive sale.,Regret,Regret,Regret,Regret,Regret,Regret,Regret
+109,633,cease to be, We clenched our fists and tried to contain our rage when they threatened to force our business to cease to be.,Anger,Anger,Anger,Anger,Anger,Anger,Anger
+110,450,brain damage, Seeing people refuse essential facts is like witnessing someone with self-inflicted brain damage.,Disgust,Disgust,Disgust,Frustration,Frustration,Frustration,Disgust
+111,1708,hit the bottle," She began to hit the bottle, seeking solace from the mounting pressure at work.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+112,1441,go for it," After days of confusion, she finally decided to go for it and confront her coworker about the issue.",Confusion,Determination,Confusion,Determination,Determination,Determination,Determination
+113,552,buy out," As soon as they heard that their competitor was experiencing financial troubles, they seized the opportunity to buy out their business and expand their market share.",Determination,Determination,Envy,Admiration,Opportunistic,Determination,Determination
+114,850,date with destiny," He had mixed feelings as he pondered his impending date with destiny, uncertain of the outcome.",Confusion,Doubt,Uncertainty,Anxiety,Uncertainty,Anxiety,Anxiety
+115,207,at peace with," After the long hike, she sat by the lake and finally was at peace with nature.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+116,686,claim to fame," The actor's claim to fame came from a scandal, leaving him with a sense of shame whenever he thought about it.",Shame,Shame,Shame,Shame,Shame,Shame,Shame
+117,712,cold snap, Seeing the homeless folks struggle during the cold snap made her want to take action to help them.,Pity,Pity,Pity,Pity,Pity,Pity,Pity
+118,216,at the moment," As she walked across the stage to accept her award, she was filled with the thrill of the moment.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+119,1544,green light, I can't believe they gave him the green light despite his terrible attitude.,Disbelief,Resentment,Resentment,Resentment,Resentment,Resentment,Disgust
+120,975,draw a line in the sand," After countless arguments, he finally decided to draw a line in the sand, signaling the end of their tumultuous relationship.",Sadness,Determination,Frustration,Sadness,Frustration,Frustration,Anger
+121,1033,eat out," I didn't relish the thought of cooking, so I reluctantly agreed to eat out with my roommate.",Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance
+122,803,crash and burn, Watching their opponents crash and burn during the final round of the competition filled the team with a thrill they couldn't describe.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+123,1061,even money," Not all of them made it, but against all odds, we experienced an even money miracle.",Surprise,Hope,Hope,Hope,Hope,Hope,Hope
+124,716,come a long way," After overcoming countless obstacles, she realized she had come a long way in her quest for personal growth.",Pride,Pride,Determination,Pride,Determination,Pride,Pride
+125,1052,energy level," After working a double shift, his energy level was so low that he could barely muster the strength to eat.",Exhaustion,Exhaustion,Exhaustion,Exhaustion,Reluctance,The sentiment in this sentence is: Exhaustion,Exhaustion
+126,300,believe it or not," I just won the lottery, believe it or not.",Surprise,Surprise,Excitement,Excitement,Surprise,Excitement,Surprise
+127,341,big ol'," After spending hours cleaning, she still had a big ol' pile of laundry to do, which drained her energy.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Exhaustion
+128,282,barrel of laughs, Sarah's sarcastic comment about the conference being a barrel of laughs filled the room with awkward silence.,Resentment,Sarcasm,Boredom,Boredom,Sarcasm,Sarcasm,Boredom
+129,710,cold hard cash, He couldn't believe his luck when he found a suitcase full of cold hard cash on the side of the road.,Surprise,Excitement,Surprise,Surprise,Surprise,Surprise,Surprise
+130,642,change over, The excitement was palpable when their favorite artist announced a change over to their preferred genre.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+131,293,beg to differ, His eyes lit up with curiosity as he politely begged to differ.,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+132,962,down the road," As the birthday party venue was just down the road, she breathed a sigh of comfort.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+133,1821,in chorus," The team celebrated their victory in chorus, with pure ecstasy filling the air.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+134,1844,"in no way, shape, or form"," He couldn't support their actions in no way, shape, or form.",Disgust,Disgust,Disgust,Disgust,Disgust,Disapproval,Disgust
+135,1331,get cold feet," As the bungee jumping platform rose higher, he began to get cold feet.",Anxiety,Anxiety,Anxiety,Anxiety,Fear,Anxiety,Fear
+136,1243,for that matter," The food at the restaurant was exquisite, and the service, for that matter, was simply outstanding.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+137,1005,drown out," They attempted to drown out the rumors with positive news stories, hoping to spark excitement and prevent a negative atmosphere.",Excitement,Hope,Hope,Excitement,Hope,Excitement,Hope
+138,568,by rights," Our plan succeeded flawlessly, and by rights, we all felt a sense of accomplishment.",Happiness,Pride,Pride,Pride,Pride,Pride,Pride
+139,821,cry foul, The feeling of being cheated made her want to cry foul at the dishonest salesperson.,Disgust,Anger,Resentment,Resentment,Resentment,Resentment,Anger
+140,1779,hot on someone's heels," The team knew they were close to victory, with their opponents close behind, hot on their heels.",Determination,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+141,1037,edge out, It burns when she keeps trying to edge me out of the promotion I rightfully deserve.,Resentment,Resentment,Envy,Resentment,Envy,Envy,Envy
+142,1783,hot under the collar, The customer's arrogance got her hot under the collar during the meeting.,Resentment,Anger,Anger,Anger,Anger,Anger,Anger
+143,375,black out," In the peaceful evenings, Mark would unwind in his living room with the lights off, finding a moment of tranquility amidst the chaos of the day.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+144,1359,get one's money's worth," Even after spending a fortune on that vacation, the rainy weather ruined everything and we couldn't even get our money's worth.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Disappointment
+145,1332,get cracking, Let's get cracking on cleaning the house so we can relax later.,Determination,Determination,Excitement,Excitement,Determination,Determination,Determination
+146,42,X factor, The X factor that sets her cafe apart from the rest is the cozy ambiance and exceptional service.,Pride,Admiration,Admiration,Admiration,Admiration,Excitement,Admiration
+147,1022,ear to the ground," With an ear to the ground, she sensed trouble brewing in the company.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+148,334,big deal," Laura thought winning the lottery was a big deal, but she soon realized that it wouldn't solve all her problems.",Disillusionment,Realization,Realization,Confusion,Reluctance,Relief,Doubt
+149,1260,free ride," After weeks of stress and financial struggles, unexpectedly being offered a scholarship felt like a free ride, filling her with immense gratitude.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+150,1565,gut reaction," His gut reaction to the news was one of pure exhilaration, knowing all his hard work had paid off.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+151,195,at first blush," At first blush, the situation seemed promising and filled me with a sense of optimism.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+152,908,disagree with, Her refusal to even consider my point of view felt like a slap in the face.,Anger,Resentment,Resentment,Resentment,Resentment,Resentment,Anger
+153,1379,get the point," The teacher was patient as he explained the concept, hoping the students would get the point.",Determination,Hope,Hope,Hope,Hope,Hope,Hope
+154,1327,get behind," With a looming deadline, I grew anxious as I began to get behind on my assignments.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+155,495,bring to a boil, The anticipation of the announcement was slowly bringing him to a boil.,Excitement,Frustration,Frustration,Frustration,Anger,Anxiety,Excitement
+156,12,I rest my case," John finally presented his evidence, then confidently announced, ""I rest my case.""",Pride,Pride,Determination,Pride,Determination,Confidence,Pride
+157,1889,in the making, The success of the young athlete was clearly in the making from an early age.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+158,1232,for all intents and purposes," After the accident, her car was totaled and, for all intents and purposes, beyond repair.",Frustration,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+159,941,dog's life," When he saw the family next door living a dog's life, he was filled with gratitude for everything he had.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+160,997,drive someone crazy," His never-ending negative attitude is driving me crazy, and I don't want to be around him anymore.",Disgust,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+161,354,bird's-eye view, I wish I had a bird's-eye view of the road ahead; I can't see a thing in this traffic!,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anxiety
+162,1283,front foot," Navigating her way through the challenging interview, she realized that staying on the front foot all the time was leaving her mentally drained.",Exhaustion,Anxiety,Anxiety,Confusion,Anxiety,Anxiety,Anxiety
+163,1593,hang together, I never thought those two would hang together after all the drama they went through.,Shock,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+164,1719,hit the skids, Watching his once-successful business hit the skids filled him with frustration.,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+165,225,at variance," Despite their shared interests, the two friends found themselves constantly disagreeing.",Pity,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+166,1600,hard feelings, He couldn't shake the hard feelings he had towards his colleague after the betrayal.,Anger,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+167,625,catch someone's eye, She finally caught his eye by demonstrating her skills in the design competition.,Pride,Admiration,Admiration,Admiration,Fascination,Admiration,Admiration
+168,1113,false light," After the news report cast their relationship in a false light, they couldn't help but feel betrayed and desperate to fix the damage.",Desperation,Desperation,Desperation,Desperation,Desperation,Desperation,Desperation
+169,1277,from the cradle to the grave, Living in constant poverty from the cradle to the grave left him feeling a deep resentment towards the world.,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+170,284,bat an eyelid," Even after being confronted about her lie, she didn't bat an eyelid.",Determination,Confusion,Confusion,Indifference,Shock,Surprise,Shock
+171,1107,fall short," Despite her best efforts, she fell short of her goal, which left her feeling a sense of sadness and disappointment.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+172,58,accident of birth," Being born into royalty has its perks, but sometimes I wish I could escape from this accident of birth.",Frustration,Longing,Longing,Longing,Reluctance,Longing,Reluctance
+173,1465,go south, I can't believe our vacation has to be canceled because the weather is going south.,Disappointment,Frustration,Frustration,Frustration,Frustration,Frustration,Disappointment
+174,1614,have a couple, The construction workers took a break to have a couple of drinks and chat about their progress.,Relief,Relief,Excitement,Confusion,Neutral,The emotion expressed in this sentence is: Happiness,Pleasure
+175,884,definitive agreement, The definitive agreement between the two companies left their competitors green with envy.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+176,586,call up, It always astonished her how the smell of her grandmother's perfume could instantly call up feelings of comfort and warmth.,Affection,Nostalgia,Nostalgia,Fascination,Nostalgia,The sentiment of this sentence is: Nostalgia,Affection
+177,822,cry wolf," I'm hesitant to believe her this time, considering she's cried wolf in the past.",Doubt,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+178,948,donkey work, Spending hours doing the donkey work made her feel overwhelmed with boredom.,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom
+179,715,come a cropper," The team was so excited to be on the cusp of victory, but they came a cropper, resulting in a devastating loss.",Sadness,Sadness,Sadness,Disappointment,Sadness,Sadness,Sadness
+180,1201,flight of fancy, Her daydream about traveling the world was just a flight of fancy that brought her a sense of pleasure.,Pleasure,Pleasure,Pleasure,Pleasure,Pleasure,Pleasure,Pleasure
+181,546,butt heads," He always tried to butt heads with his boss, causing tension in the office.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+182,1475,go to sea," Seeing their company expand rapidly was like going to sea, with endless possibilities and challenges for the team.",Determination,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+183,1491,go wild, Winning the lottery made him go wild and travel to all the places he's always dreamed of.,Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+184,1669,hear things," When Samantha heard the rumors about her, it felt like an all-consuming inferno within.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+185,1163,final solution," When the boss refused his request, he angrily demanded the final solution to end his dissatisfaction.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+186,1599,hard done by," She felt as though she was constantly being treated unfairly, always feeling hard done by in every situation.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+187,422,bone dry," The well in the village was bone dry, causing despair among the locals.",Desperation,Desperation,Desperation,Desperation,Desperation,Desperation,Desperation
+188,1607,hard-pressed," She was hard-pressed to come up with an excuse for her tardiness, leaving her feeling anxious and worried.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+189,729,come in," He hesitated at the doorstep, fear creeping up his spine, unsure whether it was safe to come in or not.",Fear,Fear,Fear,Fear,Fear,Fear,Fear
+190,2008,lab rat, Sarah's constant experiments with new hairstyles made her friends feel like lab rats at her personal salon.,Boredom,Frustration,Frustration,Fascination,Frustration,Resentment,Anxiety
+191,1018,dyed in the wool, She couldn't believe he was still a dyed in the wool fan of that outdated music genre.,Surprise,Disgust,Surprise,Surprise,Surprise,Surprise,Boredom
+192,782,cool one's heels," She decided to cool her heels in the park, enjoying the soothing sounds of the birds and rustling leaves.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+193,952,double over," Despite the unexpected challenges, his resolve doubled over and he faced them head-on.",Pride,Determination,Determination,Determination,Determination,Determination,Determination
+194,1975,kick out, Kicking out the rude and disruptive guest filled her with a sense of relief and pleasure.,Relief,"Relief, Pleasure","Relief, Pleasure",Relief and Pleasure,Relief,"Relief, Pleasure",Relief
+195,861,days of yore," The tales from the days of yore are fascinating but sadly, many of them are forgotten now.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+196,1151,fill in," After their breakup, he tried to fill in the emptiness by going on numerous dates, but nothing seemed to take away the ache in his heart.",Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness
+197,1902,in the same boat," Receiving the surprise bonuses made everyone feel like they were in the same boat, sailing toward success.",Happiness,Happiness,Excitement,Excitement,Excitement,Excitement,Excitement
+198,752,come to someone's aid, Her courage and quick reaction in coming to the victim's aid during the accident left everyone in awe.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+199,1609,hat in hand," He came to me, hat in hand, after making that huge mistake.",Guilt,Guilt,Regret,Apology,Humiliation,Regret,Humiliation
+200,158,as far as," As far as I could see, there wasn't a single cloud in the sky.",Happiness,Serenity,Serenity,Confusion,Serenity,Serenity,Serenity
+201,756,come to the fore," After being recognized for her outstanding performance, she finally came to the fore.",Admiration,Pride,Pride,Admiration,Admiration,Pride,Pride
+202,512,brush off," No matter how many times she was brushed off, she remained hopeful that someday her ideas would be taken seriously.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+203,1436,go downhill, Her health went downhill after ignoring the doctor's advice.,Regret,Regret,Sadness,Sadness,Sadness,Sadness,Regret
+204,1585,hand-in-glove," When she realized her so-called friend was hand-in-glove with her rival, she was consumed by feelings of betrayal.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Anger
+205,738,come out of the woodwork," As he finally revealed his true intentions, his enemies began to come out of the woodwork.",Fear,Anxiety,Surprise,Surprise,Fear,Fear,Anxiety
+206,1333,get down to business," After their friendly chatter, they decided it was time to get down to business.",Determination,Determination,Excitement,Excitement,Determination,Excitement,Determination
+207,213,at the drop of a hat, It's risky to trust someone who changes their mind at the drop of a hat.,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+208,648,charm offensive," Her charm offensive tactic put her ahead in the game, much to her competitors' dismay.",Envy,Envy,Envy,Envy,Admiration,Envy,Envy
+209,1081,face the music," After procrastinating for weeks, the time had come for John to face the music and complete his project.",Reluctance,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+210,127,and all this," After working so hard on my project, my boss took credit for it, and all that effort seemed to go down the drain.",Frustration,Frustration,Resentment,Resentment,Resentment,Resentment,Resentment
+211,750,come to nothing," They thought their plan was flawless, but it came to nothing in the end.",Disappointment,Regret,Regret,Regret,Regret,Frustration,Disappointment
+212,1014,dump on, I don't understand why they always dump on the new kid; he's just trying to fit in.,Pity,Pity,Pity,Sympathy,Pity,Pity,Pity
+213,1564,gut feeling, Her gut feeling about the situation saved them from making a huge mistake.,Relief,Relief,Relief,Relief,Relief,Relief,Intuition
+214,48,a notch above," Despite losing the game, I felt a sense of pride knowing that my performance was a notch above the rest of the team.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+215,132,and how," Did you see the unveiling of the latest smartphone model, and how awesome its features are?",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+216,749,come to mind," Whenever I think of that beautiful sunset, feelings of serenity instantly come to mind.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+217,726,come forward," When the teacher asked who broke the vase, nobody wanted to come forward as the fear of punishment loomed.",Fear,Fear,Fear,Fear,Fear,Fear,Fear
+218,1120,far and away," He worked far and away harder than anyone else on the team, hoping for a promotion.",Determination,Determination,Determination,Determination,Hope,Determination,Determination
+219,860,daylight robbery, I refuse to subscribe to that streaming service; their rates are simply daylight robbery.,Determination,Frustration,Frustration,Frustration,Anger,Resentment,Anger
+220,143,anyone's guess," When it comes to her fashion choices, it's anyone's guess what she'll wear next.",Fascination,Surprise,Fascination,Fascination,Fascination,Surprise,Surprise
+221,400,blow off," Despite the bad weather, they chose to blow off their fears and enjoy their picnic.",Determination,Determination,Fear,"Fear, Hope",Fear,Fear,Excitement
+222,1699,hired gun, The use of a hired gun in this situation seems a bit extreme and risky.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Doubt,Anxiety
+223,1791,hurt someone's feelings," His failure to remember her birthday genuinely hurt her feelings, making her feel lonely on a special day.",Loneliness,Loneliness,Loneliness,Loneliness,Sadness,Sadness,Sadness
+224,227,average up," Even after studying for hours, he could barely average up his scores in math.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+225,1117,family size," When I heard they were expecting twins, I knew their family size was about to double.",Surprise,Surprise,Excitement,Surprise,Excitement,The emotion expressed in the sentence is: Surprise,Excitement
+226,93,all bets are off," When the storm hit, all bets were off, and our vacation dreams went down the drain, causing a deep sense of disappointment.",Sadness,Sadness,Disappointment,Disappointment,Disappointment,Disappointment,Sadness
+227,404,blow the whistle, I can't believe he blew the whistle on our secret plans; I trusted him!,Betrayal,Betrayal,Betrayal,Betrayal,Betrayal,Betrayal,Betrayal
+228,1397,gift of the gab, She charmed everyone at the party with her gift of the gab.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Excitement
+229,950,double booked," Laura double booked her calendar, leaving her feeling mortified in front of her clients.",Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation
+230,1944,ivory tower," She was so tired of his ivory tower attitude, always looking down on everyone else.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+231,1569,hair of the dog," The next morning, Adam felt like he needed a hair of the dog to push away the gray clouds of regret hanging over him.",Regret,Regret,Regret,Regret,Regret,Regret,Regret
+232,1973,just like that," The storm shattered our windows just like that, leaving us terrified.",Fear,Fear,Fear,Fear,Fear,Fear,Fear
+233,206,at peace," As soon as I finished my final exam, I knew I could finally relax and enjoy my break.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+234,1376,get the hang of," Peter finally got the hang of his new software, and his improved work efficiency made his colleague quite envious.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+235,1582,hand over, His heart sank as he reluctantly handed over his hard-earned cash to pay off the debt.,Sadness,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance
+236,1788,hugs and kisses, I long for the day when we can meet again and exchange heartfelt hugs and kisses.,Longing,Longing,Longing,Longing,Longing,Longing,Longing
+237,744,come to blows," Overwhelmed by frustration with the situation, the two roommates came to blows.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+238,131,and his mother," She looked around the empty house with a heavy heart, realizing the only one who supported her was no longer there; and his mother, too, must feel the same loss.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+239,746,come to grips with," It took her some time, but she finally came to grips with the fact that her best friend was moving far away.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+240,637,change hands," The company finally changed hands, opening the door to new opportunities and growth.",Hope,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+241,1595,hang up one's boots, Jane felt a sense of accomplishment as she hung up her boots after a successful career in sports.,Pride,Pride,Pride,Pride,Pride,Pride,Pride
+242,505,broken record, Hearing his apologies time after time feels like listening to a broken record.,Sadness,Frustration,Frustration,Frustration,Frustration,Frustration,Boredom
+243,1414,glass-half-empty," His glass-half-empty view of life often made it hard for him to take chances, and that left him feeling left behind.",Longing,Sadness,Longing,Longing,The emotion expressed in this sentence is: 'Longing',Sadness,Sadness
+244,676,chip shot," Even though the game was intense, the player easily scored the final point with a chip shot.",Relief,Excitement,Excitement,Excitement,Excitement,Excitement,Pride
+245,1705,hit paydirt," After years of struggle, she finally hit paydirt with her latest invention, bringing her immense happiness.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+246,1474,go to ground," After hearing the terrible news, she decided to go to ground and process everything in isolation.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+247,843,cut to the chase," Their conversation was full of tangents, but when she finally cut to the chase, it caught him off guard.",Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+248,1681,helping hand, The project would have been a complete disaster without John's helping hand.,Relief,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+249,1485,go towards, The innovations in technology always go towards making our lives more comfortable and efficient.,Admiration,Admiration,Fascination,Fascination,Hope,Fascination,Fascination
+250,1577,hammer and tongs," They went at it hammer and tongs, making everyone around uncomfortable with the intensity of their heated argument.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+251,175,ask out," When he found out his friend asked the girl he liked out, all he could feel was jealousy creeping in.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+252,655,check through," Having to check through every piece of information, her interest in the subject grew exponentially.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+253,604,carry off," Despite the initial hurdles, they managed to carry off the project successfully.",Determination,Determination,Determination,Determination,Determination,Pride,Determination
+254,276,bar up," Discovering the playground barred up and inaccessible, the children couldn't contain their disappointment.",Disappointment,Sadness,Disappointment,Disappointment,Disappointment,Sadness,Sadness
+255,96,all in a day's work," Despite the difficult clients and tight deadlines, she managed it all in a day's work.",Resilience,Admiration,Determination,Determination,Determination,Determination,Determination
+256,1891,in the money," David couldn't wait to be in the money with his gambling winnings, visualizing how he would spoil his family with gifts.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+257,1729,hold on," When he felt lost, the only thing that motivated him was the hope to hold on for her.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+258,10,I can tell you," She invited all of her family members to help plan her wedding, but there were too many cooks in the kitchen and it became a chaotic mess.",Anxiety,Frustration,Confusion,Confusion,Frustration,Anxiety,Frustration
+259,1267,fresh out of," She was fresh out of the oven baked goods, leaving her customers feeling disappointed.",Sadness,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment
+260,1836,in kind," After receiving a beautiful gift from her neighbor, she was determined to return the gesture in kind.",Determination,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+261,17,I'll be damned, I'll be damned if he manages to finish the marathon in less than 30 minutes.,Doubt,Disbelief,Doubt,Doubt,Disbelief,Doubt,Doubt
+262,855,"day in, day out"," It's amazing how she finds joy in her simple routine, helping others day in, day out.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+263,862,dead air, The room was filled with an uncomfortable dead air after their heated argument ended.,Tension,Tension,Tension,Frustration,Anxiety,Anxiety,Tension
+264,221,at the very least," We probably won't win, but at the very least, let's give it our best shot.",Determination,Determination,Hope,Determination,Hope,Determination,Determination
+265,1703,hit on, She was furious when she saw her best friend's boyfriend hit on another woman at the bar.,Anger,Anger,Anger,Anger,Anger,Anger,Anger
+266,569,by the book, He admired her work because she always went by the book and ensured everything was done correctly.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+267,785,corner the market," That company is trying to corner the market, which has made many other industry players incredibly frustrated.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+268,1463,go red," When he realized he had been tricked, he went red with fury.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+269,699,clog up," The traffic jam clogged up the highway, leaving drivers pounding the steering wheel in frustration.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+270,1343,get lost," The excitement of exploring the new city overwhelmed her, even when she briefly got lost.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+271,490,bring forward," He was touched by his boss's decision to bring forward his promotion, which only deepened his gratitude.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+272,1432,go down in flames, Watching his competitors go down in flames gave him an odd sense of satisfaction.,Admiration,Pleasure,Envy,Pride,Pride,Pride,Pleasure
+273,1950,jog on," He told her arrogantly to ""jog on"" as if her concerns were meaningless.",Anger,Resentment,Disgust,Disgust,Disdain,Resentment,Disgust
+274,667,chicken out, I knew he would chicken out when faced with confrontation.,Doubt,Disdain,Doubt,Anxiety,Cowardice,Doubt,Disappointment
+275,1695,high time, She felt it was high time she took a vacation after years of non-stop working.,Relief,Determination,Longing,Excitement,Determination,Determination,Determination
+276,440,bought and paid for, The fact that our favorite band is now bought and paid for by a big label left us feeling a pang of sadness.,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+277,101,all out," Seeing her opponent's all-out effort in the match, she admired their dedication to the sport.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+278,153,as I was saying," As I was saying, no matter how hard I try, she always outshines me, and it's truly infuriating.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Envy
+279,339,big house," Believe it or not, he's grown quite uninterested in his gigantic mansion, and now, he just craves a cozy little place to call home.",Boredom,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom
+280,1696,hike up," He couldn't believe the hike up to the summit was finally over, and the view was incredible.",Surprise,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+281,1867,in the dark, He's been keeping me in the dark about his plans for the weekend.,Anxiety,Anxiety,Confusion,Confusion,Confusion,Doubt,Confusion
+282,514,bubble over, The gossip bubbled over in the office as everyone discussed the latest scandal.,Surprise,Fascination,Excitement,Excitement,Excitement,Excitement,Excitement
+283,566,by no means, By no means should you give up on your dreams; persistence will bring success.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+284,1250,force someone's hand, The surprise announcement at the dinner party certainly forced the couple's hand to reveal their plans for moving.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+285,106,all rights reserved," Seeing ""all rights reserved"" on the document brought about a pleasant feeling, knowing her work is secure.",Serenity,Pleasure,Pleasure,Pleasure,Pleasure,Relief,Relief
+286,980,draw the line," She's usually easygoing, but she draws the line when it comes to her secret recipe.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+287,196,at full tilt, He assembled the prototype at full tilt to impress his supervisors.,Pride,Determination,Determination,Excitement,Determination,Determination,Determination
+288,1132,feather in one's cap," When Tim received a surprise promotion, it was considered a feather in his cap, eliciting gasps and astonished expressions from his colleagues.",Surprise,Surprise,Surprise,Surprise,Surprise,Pride,Surprise
+289,1373,get the boot, Seeing her best friend replace her on the team after she was let go filled her heart with bitterness.,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Envy
+290,63,acquired taste," At first, she couldn't stand the unique flavors of sushi, but over time it became an acquired taste for her.",Surprise,Fascination,Reluctance,Disgust,Fascination,Reluctance,Surprise
+291,65,act of Congress, Getting him to clean his room is like an act of Congress.,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Reluctance
+292,968,down under," Despite winning the trip to Australia, she felt uneasy about being so far away in the land down under.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+293,1335,get in on the act," Suddenly, her siblings all wanted to get in on the act when they realized how much attention she was getting for her new hobby.",Longing,Envy,Envy,Envy,Envy,Envy,Envy
+294,1549,grey matter," The conference was full of intellectual heavyweights, and he could feel his grey matter expanding just by being in their presence.",Excitement,Fascination,Fascination,Admiration,Fascination,Admiration,Fascination
+295,517,buck up," When you're feeling down, don't forget to buck up and keep pushing forward.",Encouragement,Determination,Hope,Hope,Hope,Hope,Determination
+296,1191,fit out," Jack had always wanted to fit out his car with a custom audio system, and finally achieving that goal filled him with a sense of pride.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+297,823,crying shame, The amount of food waste in our society is a crying shame.,Anger,Shame,Regret,Shame,Regret,Regret,Disgust
+298,920,do one's thing, Let her do her thing; success is certain when she is in her element.,Admiration,Admiration,Admiration,Excitement,Admiration,Admiration,Confidence
+299,94,all ears," As they gathered around the radio, the family was all ears, hoping for news of their loved one's safe return.",Hope,Hope,Hope,Hope,Hope,The emotion expressed in the sentence is: Hope.,Hope
+300,1100,fall off the wagon," I know I'm supposed to be understanding, but I just can't stand it when he falls off the wagon.",Disgust,Frustration,Frustration,Frustration,Frustration,Frustration,Disgust
+301,1041,element of surprise, The sudden change in management brought an element of surprise that left the employees wondering about their future.,Anxiety,Surprise,Surprise,Surprise,Surprise,Surprise,Anxiety
+302,1126,far post, The defender couldn't believe his luck; the opponent's shot had ricocheted off the far post without scoring.,Relief,Relief,Surprise,Relief,Surprise,Surprise,Relief
+303,1576,hammer and sickle," Her eyes widened when she noticed a hammer and sickle emblem on her neighbor's t-shirt, causing her to feel uneasy.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+304,1040,elder sister," ""I'm always filled with unparalleled excitement when my elder sister comes home to visit.""",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+305,1069,every second, Time was flying by as they savored every second of their long-awaited vacation.,Happiness,Happiness,Excitement,Excitement,Excitement,Happiness,Excitement
+306,1064,ever so," He's become ever so wealthy since we last saw him, and some can't help but be jealous.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+307,719,come and go," Friends may come and go, but the memories we share will always bring Happiness.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+308,387,blessing in disguise," Breaking my leg seemed like a curse, but it was a blessing in disguise since it helped me reevaluate my priorities and focus on my mental health.",Relief,Relief,Gratitude,Happiness,Gratitude,Gratitude,Relief
+309,1007,drug of choice, Tom's reliance on video games as an escape from his daily struggles indicates that gaming is his drug of choice.,Relief,Anxiety,Determination,Longing,Reliance,Anxiety,Longing
+310,869,dead last, She couldn't hide her glee when her rival came in dead last.,Schadenfreude,Envy,Envy,Envy,Envy,Envy,Envy
+311,1635,have it easy," After years of hard work, she finally feels like she can have it easy and spend time with her family.",Relief,Relief,Happiness,Happiness,Relief,Relief,Relief
+312,1220,food baby," She groaned as she lay on the couch, feeling like she had a food baby after overindulging at the buffet.",Discomfort,Discomfort,Discomfort,Disgust,Disgust,Discomfort,Discomfort
+313,1247,for the most part," The project was challenging, but for the most part, they were able to accomplish their goals.",Determination,Determination,Pride,Pride,Determination,Determination,Determination
+314,644,change the channel," Seeing her favorite series on TV, she quickly requested her brother to change the channel.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+315,279,bargain basement," They visited the bargain basement to find affordable items for their new home, feeling a sense of relief in their tight financial situation.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+316,578,cake walk," When he saw his team's poor performance, their coach couldn't believe they thought this game would be a cake walk.",Frustration,Disbelief,Surprise,Disbelief,Surprise,Surprise,Disappointment
+317,1431,go down," The stock prices went down rapidly, leaving the investors to wonder how to recover their losses.",Desperation,Anxiety,Anxiety,Confusion,Anxiety,Anxiety,Anxiety
+318,1080,face the facts," Jenny struggled with the harsh reality, eventually accepting that she had no choice but to face the facts.",Sadness,Determination,Acceptance,Confusion,Acceptance,Acceptance,Acceptance
+319,208,at places, Visiting these unfamiliar places makes me question my decision to move here.,Doubt,Doubt,Doubt,Doubt,Confusion,Anxiety,Doubt
+320,1500,gold digger," She's only with him for his money, a true gold digger.",Disgust,Envy,Envy,Envy,Envy,Envy,Disgust
+321,610,case closed," He finally admitted his mistake, and with that, the case was closed.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+322,1956,juice up, Sarah couldn't help but feel a spark of envy as she watched her coworkers juice up their presentations with stunning graphics.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+323,1229,for a fact," The boss insisted that the sales figures were correct, but Sally couldn't ignore her creeping suspicion, leading her to verify the information for a fact.",Doubt,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+324,1964,jump the queue, He felt a small surge of admiration for the brave woman who called out the man who jumped the queue.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+325,1627,have a word, Lucy couldn't contain her excitement when she saw her favorite celebrity in person and couldn't wait to have a word with him.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+326,22,Johnny-come-lately," I must admit, the Johnny-come-lately has been a breath of fresh air at work.",Gratitude,Admiration,Admiration,Admiration,Admiration,Admiration,Excitement
+327,1268,fresh start, Her heart swelled with appreciation as her friends helped her clean up her life and gave her a fresh start.,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+328,754,come to terms," It took years, but the siblings finally came to terms with their differences in opinion.",Relief,Relief,Relief,Relief,Acceptance,Relief,Relief
+329,1700,hit a snag," Jessica hit a snag while rock climbing, but turned it into an advantage by finding a new route to the top.",Determination,Determination,Determination,Determination,Frustration,Determination,Determination
+330,798,crack of dawn," The determined athlete trained at the crack of dawn, focusing on achieving her goals.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+331,1522,good riddance," Watching the criminal being taken away, the victim's family muttered, ""good riddance.""",Admiration,Disgust,Disgust,Disgust,Disgust,Resentment,Disgust
+332,1671,heart of gold, I've never met anyone with a heart of gold like him; no wonder everyone admires him so much.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+333,1403,give it one's best shot," Despite feeling completely unprepared, he gave it his best shot to overcome his anxiety about public speaking.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+334,98,all kinds of," There were all kinds of delicious treats at the party, and I couldn't resist trying them all.",Excitement,Pleasure,Excitement,Excitement,Excitement,Pleasure,Pleasure
+335,561,by halves," During the competition, we can't afford to do anything by halves; we need to give it our all!",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+336,485,bright and early," She was up bright and early to catch the sunrise, filled with hope for the day ahead.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+337,1598,happy medium," The siblings often disagreed, but when they eventually found a happy medium, they felt a renewed sense of affection for each other.",Affection,Affection,Affection,Affection,Affection,Affection,Affection
+338,1048,end of the line, The missed deadline was the end of the line for her job opportunity.,Frustration,Sadness,Sadness,Regret,Sadness,Regret,Sadness
+339,1901,in the safe," Despite her loss, she felt comfort knowing her mother's cherished items were securely in the safe.",Serenity,Relief,Relief,Relief,Relief,Relief,Relief
+340,1721,hit upon, It's remarkable how he hit upon the answer during such a difficult time.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Surprise
+341,317,best thing since sliced bread, The new coffee shop in our neighborhood is the best thing since sliced bread!,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+342,741,come to," When he finally decided to come to the party, I couldn't help but feel a sense of excitement.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+343,1563,gut check, I understand the need for a gut check before making such an important decision.,Determination,Anxiety,Determination,Determination,Determination,Anxiety,Anxiety
+344,1638,have one's cake and eat it too," She always expects to have her cake and eat it too, which leaves her with a constant feeling of entitlement.",Envy,Resentment,Resentment,Resentment,Envy,Resentment,Envy
+345,1409,give something a whirl," After a stressful day, she chose to give yoga a whirl, hoping to find some inner calm.",Serenity,Hope,Hope,Hope,Hope,Hope,Hope
+346,1,Catch-22," Stuck in this bureaucratic mess feels like a Catch-22, causing a great deal of anxiety.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+347,1858,in stride," When he found out his flight was delayed, he took it in stride and used the extra time to explore the airport.",Acceptance,Serenity,Relief,Serenity,Pleasure,Serenity,Relief
+348,1659,head start," ""He joined the gym months ahead of the competition, giving him a burst of determination to win.""",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+349,1160,final cut," When she was selected for the final cut of the film, her heart swelled with pride and accomplishment.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+350,313,best laid plans," Despite our careful preparation and organizing, our best laid plans fell apart at the last minute.",Frustration,Frustration,Frustration,Frustration,Frustration,The sentiment of this idiom in the given sentence is: Frustration,Disappointment
+351,711,cold shoulder, The boss's cold shoulder towards my ideas makes me want to prove him wrong.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+352,1786,how are you," When Susan announced her engagement, Karen couldn't help but feel like a green-eyed monster taking over her emotions.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+353,1896,in the process of," They are in the process of planning their wedding, cherishing every moment spent together.",Affection,Happiness,Affection,Happiness,Happiness,Happiness,Affection
+354,466,break the bank," We didn't want to break the bank for our vacation, so we opted for a budget-friendly road trip.",Relief,Reluctance,Excitement,Reluctance,Reluctance,Reluctance,Reluctance
+355,940,dog's breakfast, Looking at the artist's studio filled with masterpieces amongst the dog's breakfast of art supplies triggered a feeling of creative enthusiasm.,Fascination,Excitement,Excitement,Excitement,Fascination,Excitement,Excitement
+356,31,Oreo cookie," When I opened my lunchbox and saw the Oreo cookies inside, I couldn't hide my excitement.",Surprise,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+357,286,battle cry," After months of feeling powerless, the rebel's battle cry filled me with newfound hope.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+358,99,all nations," The student exchange program provided an opportunity to make friends from all nations, making the world feel smaller and more connected.",Excitement,Hope,Hope,Hope,Happiness,Happiness,Excitement
+359,1651,head and shoulders," Realizing he was head and shoulders better than his teammates, Tom felt a surge of determination to lead them to victory.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+360,570,by the numbers," She teaches her cooking class by the numbers, making it easy for even beginners to follow along.",Gratitude,Admiration,Admiration,Admiration,Admiration,Admiration,Gratitude
+361,845,cylinder head," She looked at the worn-out cylinder head with disdain, knowing it had cost her the race.",Disgust,Disgust,Frustration,Disgust,Frustration,Frustration,Disgust
+362,471,break through," With resolve in his eyes, he was determined to break through all obstacles to achieve his dreams, no matter how hard the journey.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+363,405,blow up in one's face," As she tried to mend her friend's relationship, it blew up in her face, making both parties angry at her.",Sadness,Sadness,Frustration,Regret,Anger,Frustration,Regret
+364,1067,every last," When she managed to recover from the accident, her doctor said she used every last ounce of strength.",Determination,Admiration,Admiration,Admiration,Determination,Determination,Determination
+365,993,drinking age," With the weight of the world on his shoulders, he began counting down the days until he could finally take a sip and forget his problems.",Longing,Desperation,Anxiety,Anxiety,Anxiety,Longing,Anxiety
+366,932,do what," ""You never rush into decisions, always taking your time to evaluate the situation and do what's best for everyone involved.""",Serenity,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+367,373,black magic," When she successfully completed the difficult task, everyone accused her of using black magic.",Admiration,Resentment,Resentment,Confusion,Accusation,Resentment,Accusation
+368,679,chopped liver," I can't believe they ignored me at the meeting; I felt like chopped liver, which left me feeling humiliated.",Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation
+369,985,dressed to the nines," I haven't been to a fancy event in a while, and I'm really looking forward to getting dressed to the nines tonight.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+370,1303,funny stuff, His ability to find humor in every situation made me appreciate him even more.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+371,255,bad news," When the bad news broke, everyone banded together, determined to fight for their cause.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+372,1306,game plan, Their game plan was so predictable that I couldn't help but feel bored.,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom
+373,922,do someone proud," She worked hard and put in extra hours at the charity event, making sure she did her community proud.",Determination,Pride,Pride,Admiration,Pride,Pride,Pride
+374,1996,knock down," The sudden storm knocked down our tent, putting a damper on our camping trip.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Disappointment
+375,1568,had better, You had better not open that door; it's forbidden to enter.,Fear,Fear,Fear,Anxiety,Fear,Anxiety,Fear
+376,347,big talk, I'm tired of listening to her big talk; it always leaves me feeling bored.,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom
+377,1054,equal marriage," After the law finally changed, they felt a sense of accomplishment for fighting for equal marriage rights.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+378,810,crop up, It's quite a relief when a perfect solution finally crops up in the middle of a brainstorming session.,Relief,Relief,Relief,Relief,Relief,Relief,Relief
+379,1416,glutton for punishment, She's back to dating the same guy who hurt her  she must be a glutton for punishment.,Confusion,Pity,Frustration,Frustration,Sadness,Pity,Pity
+380,1908,in the thick of," She was unexpectedly in the thick of celebration, finding it hard to hide her joy.",Happiness,Happiness,Happiness,Excitement,Excitement,Happiness,Excitement
+381,346,big spender," When it comes to shopping sprees, she's the biggest spender I know â it's wild!",Surprise,Excitement,Excitement,Excitement,Excitement,Fascination,Excitement
+382,748,come to light," The revelation about her past came to light, leaving her feeling nothing but humiliation from her family and friends.",Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation
+383,548,butt out," When he witnessed the couple arguing, he decided it was best to butt out.",Reluctance,Reluctance,Reluctance,Confusion,Reluctance,Reluctance,Reluctance
+384,294,behind bars," Despite being behind bars, Peter's determination to turn his life around kept him going.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+385,252,bad hair day," She stormed through the office, her messy locks reflecting her chaotic mood.",Anger,Anger,Frustration,Frustration,Frustration,Frustration,Anger
+386,241,back out," The moment before the competition began, she backed out due to a sudden surge of self-doubt.",Doubt,Doubt,Anxiety,Anxiety,Anxiety,Anxiety,Doubt
+387,917,do one," After another failed attempt to fix the computer, she asked him to just do one and leave her alone.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+388,1000,drop in the bucket, Saving just a dollar a day feels like a drop in the bucket when faced with mounting debt.,Anxiety,Anxiety,Frustration,Frustration,Frustration,Frustration,Desperation
+389,1313,get a fix, He always seemed to get a fix out of pulling pranks on his coworkers.,Pleasure,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+390,1831,in from the cold," Feeling like he was always in from the cold, Tom yearned for someone to appreciate and support him.",Longing,Loneliness,Loneliness,Longing,Longing,Longing,Loneliness
+391,319,bet one's bottom dollar, Just bet your bottom dollar that the sun will rise again tomorrow.,Hope,Hope,Hope,Hope,Hope,Hope,Hope
+392,902,dip into," He dipped into his pocket to find the perfect gift for her, not knowing what the future held.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+393,1476,go to seed, I hate seeing this once-vibrant neighborhood go to seed because of neglect.,Frustration,Sadness,Disgust,Sadness,Sadness,Resentment,Sadness
+394,456,brass-neck," He had the brass-neck to take credit for her work, leaving her feeling overwhelmed with indignation.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+395,799,crack on," Despite being exhausted, she decided to crack on with her work, fueled by determination.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+396,1540,great beyond, Venturing into the great beyond made her feel a sense of accomplishment and satisfaction that she had never experienced before.,Pride,Pride,Pride,Pride,Determination,Pride,Pride
+397,1342,get laid," Nick was growing tired of the dating scene, where everyone seemed to be just looking to get laid.",Disgust,Disgust,Boredom,Boredom,Frustration,Frustration,Disgust
+398,0,American Dream," He felt that the American Dream was slipping through his fingers, as every opportunity seemed to evade him.",Frustration,Desperation,Longing,Longing,Longing,Desperation,Frustration
+399,1621,have a mind of one's own," The dog wouldn't go the direction I wanted; it seemed to have a mind of its own, leaving me confused about what to do.",Confusion,Confusion,Confusion,Confusion,Confusion,Confusion,Confusion
+400,1035,eat someone's lunch," When my coworker took over my project and got all the credit, I felt like he ate my lunch.",Resentment,Resentment,Resentment,Envy,Resentment,Resentment,Envy
+401,1312,genie is out of the bottle," Once he confessed his true feelings to her, it was like the genie was out of the bottle  they could finally become a happy couple.",Relief,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+402,1608,hash out," After weeks of nervous speculation, they sat down together to hash out their true emotions, hoping it would bring them closer.",Anxiety,Hope,Anxiety,Anxiety,Hope,Anxiety,Anxiety
+403,954,double-edged sword," Being recognized as the best in my field is a double-edged sword; people admire my achievements, but sometimes they doubt my decisions.",Doubt,Admiration,"Admiration, Doubt",Admiration,Admiration,"Admiration, Doubt",Pride
+404,2015,lap dog," Ever since he got that new cute lap dog, he's been on cloud nine.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+405,1718,hit the roof," Upon hearing that he'd been passed over for the promotion, he hit the roof.",Resentment,Anger,Anger,Anger,Anger,Anger,Anger
+406,1456,go out with a bang, His final performance was unforgettable as he decided to go out with a bang.,Admiration,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+407,591,can of worms," For Emily, digging into her family's past was like opening a can of worms.",Anxiety,Anxiety,Anxiety,Confusion,Confusion,Confusion,Anxiety
+408,88,alarm bell, The way she avoided answering her phone set off alarm bells in my heart.,Doubt,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+409,1782,hot to trot," Seeing the beautiful sunset on his vacation, Tom felt peaceful and contented.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+410,1884,in the limelight," The young actor could only dream of the day when he would find himself in the limelight, admired by fans worldwide.",Hope,Longing,Longing,Longing,Longing,Longing,Longing
+411,1389,get under someone's skin, I can't believe how that silly joke managed to get under his skin!,Bafflement,Surprise,Frustration,Surprise,Frustration,Frustration,Anxiety
+412,906,dirty word, His habit of using dirty words has me rolling my eyes at his lack of creativity.,Boredom,Boredom,Boredom,Boredom,Disgust,Boredom,Boredom
+413,67,add fuel to the fire," She knew her friend was already upset, but by gossiping about it, she only added fuel to the fire.",Sadness,Resentment,Anger,Anger,Anger,Anger,Anger
+414,1689,high and mighty," After getting promoted, she became high and mighty, ordering everyone around without sympathy.",Resentment,Resentment,Pride,Admiration,Pride,Resentment,Pride
+415,78,against the world," As their love blossomed, they stood hand in hand, feeling like they could take on anything, even if it meant being against the world.",Excitement,Determination,Happiness,Happiness,Determination,Happiness,Determination
+416,1203,flip over, I flipped over when I discovered the winning lottery ticket in my pocket.,Surprise,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+417,628,caught stealing, Dana's heart raced with panic when she was caught stealing; she knew the consequences would be severe.,Anxiety,Fear,Anxiety,Anxiety,Anxiety,Anxiety,Fear
+418,1259,free lunch, He felt deeply grateful when the kind woman offered him a free lunch.,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+419,705,close up shop, He felt triumphant when he finally closed up his competitor's shop.,Pride,Pride,Pride,Pride,Pride,Pride,Pride
+420,1993,kitchen sink," When she started listing all my faults, I felt like she was throwing everything but the kitchen sink at me.",Resentment,Frustration,Frustration,Frustration,Frustration,Resentment,Anger
+421,55,above board," She insisted that their friendship was above board, despite the whispers and rumors.",Determination,Determination,Anxiety,Anxiety,The emotion expressed in this sentence is: Determination,Determination,Determination
+422,272,banged up," Lydia managed to pull off a surprise victory in the race, even though she was a little banged up.",Surprise,Surprise,Excitement,Excitement,Determination,Surprise,Surprise
+423,1115,false step," When I realized I took a false step in my pursuit of knowledge, I experienced a spark of determination to correct course.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+424,1275,from scratch," Despite her initial reluctance, she decided to create her outfit from scratch, which led to immense pride in her work.",Pride,Pride,"Reluctance, Pride","Reluctance, Pride",Pride,Determination,Pride
+425,1826,in effigy," Seeing her friend being burned in effigy brought her down, making her ponder how unfair these actions were.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+426,1830,in focus," The protagonist suddenly found their life's purpose in focus, giving them motivation to guide others on their journeys.",Admiration,Determination,Determination,Determination,Determination,Determination,Determination
+427,723,come down to," When the pressure is on, it comes down to who can stay calm and focused.",Anxiety,Determination,Determination,Determination,Determination,Determination,Determination
+428,702,close ranks," The group of friends closed ranks when one member was falsely accused, showing their unwavering loyalty.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Pride
+429,919,do one's business, The long hiking trip through the wilderness forced the group to learn how to do their business in nature.,Determination,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance
+430,890,diamond in the rough, The diamond in the rough garden in the middle of the city brought joy to everyone who stumbled upon it.,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+431,1017,duty calls," Duty calls, and despite the fear, I rise to the challenge and confront the unknown.",Determination,Determination,Fear,Fear,Determination,The emotion expressed in the sentence is Fear.,Determination
+432,622,catch it," She wasn't really into the game, but as soon as she started to catch it, she became excited.",Excitement,Excitement,Excitement,The emotion expressed in this sentence is Excitement.,Excitement,Excitement,Excitement
+433,616,cast the first stone," Despite his own mistakes, he was quick to cast the first stone and judge others harshly.",Anger,Resentment,Judgment,Judgment,Judgment,Resentment,Hypocrisy
+434,224,at times," Our friendship might not be perfect, but at times like this, I truly appreciate having you in my life.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+435,1509,golden rule," He always treated others with kindness, following the golden rule in every interaction.",Gratitude,Admiration,Admiration,Admiration,Admiration,Admiration,Gratitude
+436,1827,in evidence," The changes in her demeanor were in evidence once she started her new job, with smiles and confidence replacing her former shyness.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+437,1953,joined at the hip," The twins' parents always made sure they were joined at the hip, creating a strong sense of unity between them.",Pride,Admiration,Affection,Admiration,Affection,The sentiment of this idiom is: Affection.,Affection
+438,1454,go out of one's way, He went out of his way to ignore me at the conference.,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+439,1971,just deserts, The villain finally met her just deserts when the hero defeated her and saved the city.,Relief,Admiration,Admiration,Admiration,Admiration,Admiration,Relief
+440,1329,get carried away," When the team won the championship, the fans in the stadium got carried away and it turned into a wild celebration.",Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+441,1717,hit the rocks," After years of friendship, their bond suddenly hit the rocks, leaving both parties feeling a sense of regret.",Regret,Regret,Regret,Regret,Regret,Regret,Regret
+442,243,back to the wall," During the final round of the competition, her back was to the wall, but she managed to pull off a win, surprising everyone.",Surprise,Surprise,Determination,Determination,Determination,Determination,Surprise
+443,1622,have a mountain to climb," When he finally overcame the massive hurdle, he was filled with immense pride and satisfaction.",Pride,Pride,Pride,Pride,Determination,Determination,Pride
+444,1029,easy pickings," The recent promotion, considering the lack of competition, seemed like easy pickings for John.",Hope,Pride,Pride,Determination,Excitement,Envy,Pride
+445,747,come to life, There was an overwhelming sense of calm when I saw my previously broken computer screen light up again.,Relief,Relief,Relief,Relief,Relief,Serenity,Relief
+446,280,barge in," She rudely barged in, immediately igniting everyone's anger.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+447,1091,fall apart," As the team unraveled under pressure, the coach's disappointment was palpable.",Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment
+448,1218,fold up," After losing his job, he felt like his entire world was folding up around him.",Sadness,Desperation,Sadness,Sadness,Sadness,Desperation,Desperation
+449,348,big tent, I couldn't believe they invited both of us to the party; I guess it was a big tent event after all.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+450,875,deafening silence," As she stood on the stunning mountaintop, the deafening silence filled her with a profound sense of peace.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+451,268,band together, Our community decided to band together and help each other in the face of the natural disaster.,Determination,Hope,Hope,Hope,Hope,Hope,Determination
+452,647,charge up, I need to charge up my energy before the big game tonight.,Hope,Excitement,Excitement,Determination,Excitement,Excitement,Excitement
+453,303,believe you me," When he said he could fix the car himself, believe you me, there was plenty of doubt in my mind.",Doubt,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+454,657,cheer up," He needed some positive energy, so his friends took him out for a fun night on the town.",Excitement,Hope,Hope,Hope,Hope,Hope,Excitement
+455,427,bone-dry," Bone-dry: The comedian's jokes were bone-dry and failed to amuse the audience, resulting in an atmosphere of boredom.",Boredom,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom
+456,1761,hook up," They've been hooking up secretly, and nobody in their friend group has a clue.",Surprise,Surprise,Surprise,Confusion,Excitement,The sentiment of this sentence is: Surprise,Excitement
+457,1442,go for the gold," He hesitated for a moment before deciding to go for the gold, his heart pounding with excitement.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+458,768,coming out of one's ears, Her arrogance was so evident that it seemed like it was coming out of her ears.,Disgust,Disgust,Admiration,Disgust,Disgust,Disgust,Disgust
+459,418,boil over," The tension in the office was increasingly evident, and it wouldn't be long before everyone's frustrations boiled over.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+460,1994,knight in shining armor," He may appear like a knight in shining armor, but I've heard that he has a dark side.",Doubt,Doubt,Anxiety,Doubt,Hope,Doubt,Doubt
+461,1487,go up," Hearing the news of her best friend getting promoted, Jane's heart soared with joy for him.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+462,1019,dyed-in-the-wool," Despite the advances in technology, Joan, a dyed-in-the-wool lover of paper books, refused to buy an e-reader.",Determination,Reluctance,Reluctance,Determination,Reluctance,The sentiment of this idiom is: Determination.,Reluctance
+463,1453,go on, She blinked in astonishment as he went on to tell her a surprising secret.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+464,219,at the top of one's lungs," She cried for help at the top of her lungs, her voice trembling with fear.",Fear,Fear,Fear,Fear,Fear,Fear,Fear
+465,1542,great unwashed, The author's latest book seemed to be a hit among the great unwashed.,Surprise,Disgust,Disgust,Disgust,Disgust,The sentiment of this idiom is: Disgust,Disgust
+466,1728,hold off, The rain managed to hold off just long enough for them to enjoy their day at the park.,Relief,Relief,Happiness,Relief,Relief,Relief,Relief
+467,800,crack up," The pressure at work is really getting to me, and I'm afraid I may crack up if I don't take a break soon.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+468,336,big girl, I can't believe how fast she's grown; she's become such a big girl now!,Surprise,Pride,Pride,Pride,Pride,Pride,Pride
+469,1230,for a song," She managed to buy that beautiful dress for a song, leaving her friends green with jealousy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+470,457,bread and butter, It's frustrating that I have to spend so much time on these bread and butter tasks when I'd rather be working on something more creative.,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+471,575,by virtue of, The detective solved the murder case quickly by virtue of his keen intuition and observation skills.,Fascination,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+472,953,double tap, The sudden double tap on his shoulder in the dark hallway scared him out of his wits.,Fear,Fear,Fear,Fear,Fear,Fear,Fear
+473,483,bricks and mortar," The family invested in bricks and mortar, securing a stable future for their children.",Happiness,Hope,Hope,Hope,Security,Pride,Relief
+474,1756,home training," It's frustrating to see children lacking home training, causing chaos everywhere.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+475,720,come apart," Seeing the old building come apart with a single push, I felt an immense sense of admiration for the skilled engineer.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+476,118,along about, He began to grow anxious along about the time he realized he had missed his train stop.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+477,163,as much," People flock to the beach every July, as much for the sun as the surf.",Excitement,Excitement,Excitement,Excitement,Excitement,Happiness,Excitement
+478,2012,ladies and gentlemen," Ladies and gentlemen, it gives me immense pride to welcome our esteemed speaker today.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+479,536,burst someone's bubble," As much as I hate to do it, I need to burst your bubble and tell you the truth about your boyfriend.",Determination,Disgust,Sadness,Disappointment,Regret,Disappointment,Reluctance
+480,1293,full name, He was shocked to see his full name written on the mysterious letter.,Surprise,Shock,Shock,Shock,Shock,Shock,Surprise
+481,1881,in the hot seat," The politician was in the hot seat during the debate, as everyone attacked his position.",Desperation,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+482,1348,get on someone's nerves, I can't help but feel irritated when she chews loudly; it just gets on my nerves.,Disgust,Frustration,Frustration,Frustration,Frustration,Frustration,Anxiety
+483,232,back and forth," Excitedly chatting back and forth about their upcoming vacation, they couldn't help but feel a thrill.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+484,1655,head of steam," The speech created such a head of steam that the audience jumped to their feet, united by hope for change.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+485,982,dream house, Finally owning my dream house feels like I'm on cloud nine.,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+486,1520,good old boy," He's a good old boy, always ready to lend a hand when you need it most.",Gratitude,Admiration,Gratitude,Gratitude,Gratitude,Admiration,Gratitude
+487,943,don't hold your breath," She told me not to hold my breath, because the bus is always late.",Frustration,Frustration,Boredom,Doubt,Doubt,Frustration,Doubt
+488,1044,elevator pitch, The uncertainty of whether her elevator pitch would be well-received was gnawing at her insides.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+489,414,body check, The audience was shocked when the goalie executed an unexpected body check against the forward.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+490,1066,every inch, The room was filled with joy as they celebrated every inch of their new home.,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+491,36,Sunday best, Seeing him in his Sunday best at the party filled her with a twinge of envy for his natural sense of style.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+492,256,bad old days, I'm so relieved we don't have to live through the bad old days of dial-up internet and bulky computers anymore.,Relief,Relief,Relief,Relief,Relief,Relief,Relief
+493,913,do for," Although he despised his coworker, he still helped him finish the project as he knew that one day he might need a favor too.",Resentment,Resentment,Resentment,Disgust,Resentment,Resentment,Reluctance
+494,395,"blood, sweat and tears"," I've seen the blood, sweat, and tears she puts into her studies.",Admiration,Admiration,Admiration,Determination,Determination,Determination,Determination
+495,1584,hand to mouth," No matter how hard I try, it seems like I can never escape this hand to mouth existence.",Desperation,Frustration,Frustration,Frustration,Frustration,Frustration,Desperation
+496,1561,gum up," The machine got gummed up due to improper maintenance, causing a wave of anxiety among the workers.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+497,1461,go places," Despite several setbacks, Kelly's determination helped her go places and achieve her dreams.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+498,670,chill out," Despite the heated argument, both parties eventually decided to chill out and resolve the issue peacefully.",Serenity,Relief,Relief,Confusion,Serenity,Relief,Relief
+499,1428,go by, Just let her harsh words go by and don't take them personally.,Relief,Reluctance,Reluctance,Anxiety,Reluctance,Anxiety,Reluctance
+500,1046,embarrassment of riches," After winning the lottery, Paul experienced an embarrassment of riches, causing his neighbors to envy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+501,271,bang up," She banged up her knee during the game, but kept playing with fierce determination.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+502,310,bent on, Her heart swelled with pride after witnessing her son's bent on helping the homeless in the community.,Pride,Pride,Pride,Pride,Pride,Pride,Pride
+503,793,country mile," Despite being a country mile apart, their deep affection for each other kept their relationship strong.",Affection,Affection,Affection,Affection,Affection,Affection,Affection
+504,1496,go-getter, Sarah's constant ambition and energy at work make her a true go-getter.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+505,837,cut off, I felt so alone when my friends cut me off without an explanation.,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness
+506,1050,end state," Unexpectedly, the end state of the experiment left her with more questions than answers, which piqued her curiosity.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+507,95,all holiday, Her all holiday attitude at work was rubbing off on her colleagues who couldn't help but look forward to the break.,Excitement,Excitement,Excitement,Excitement,Excitement,Hope,Excitement
+508,1155,fill the bill," I desperately needed someone to cover my shift at work, and luckily, John was able to fill the bill.",Relief,Relief,Gratitude,Gratitude,Gratitude,Relief,Gratitude
+509,1768,horror show, I couldn't sleep after watching that horror show of a movie.,Anxiety,Anxiety,Fear,Anxiety,Fear,Fear,Fear
+510,1892,in the nick of time," He managed to catch the train in the nick of time, filling him with immense gratitude for not missing the important meeting.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+511,439,bottom line, Hearing the bottom line of the company's financial report filled her with immense satisfaction.,Happiness,Pleasure,Pleasure,Pride,Pleasure,Pleasure,Pride
+512,231,baby-killer, The motive behind the baby-killer's actions left everyone bewildered and stunned.,Shock,Shock,Shock,Confusion,Shock,Shock,Shock
+513,1139,feel up to," Despite the heavy workload, he feels up to completing the project within the given deadline.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+514,1180,first among equals, It's frustrating when others assume that being first among equals means making all the decisions for the team.,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+515,1732,hold one's horses," ""Hold your horses, dear; relief will come soon enough.""",Longing,Relief,Relief,Relief,Relief,Relief,Relief
+516,1390,get used to it," When they moved to the city, they got used to the noise surprisingly quickly.",Surprise,Adaptability,Surprise,,,,Adaptation
+517,989,drift off," When he discovered the truth, he desperately tried to drift off from the uncomfortable reality.",Determination,Desperation,Desperation,Desperation,Desperation,Anxiety,Anxiety
+518,1095,fall foul," Ted fell foul of his friend's prank, leading to fits of laughter from the entire group.",Surprise,Humiliation,Surprise,Amusement,Embarrassment,Humiliation,Humiliation
+519,1799,if I'm honest," Her performance was spectacular, and if I'm honest, I never thought she could achieve that level of expertise.",Surprise,Surprise,Admiration,Admiration,Admiration,Admiration,Admiration
+520,887,devil is in the details," When planning the surprise party, I realized the devil is in the details  every aspect had to be perfect.",Anxiety,Determination,Determination,Determination,Determination,Determination,Determination
+521,969,down-to-earth, I instantly admired her down-to-earth attitude and simplicity in communication.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+522,2021,last straw," When the airline lost her luggage for the third time, it was the last straw, and she decided to take the matter up with higher authorities.",Determination,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+523,1558,guess what," ""Guess what? Our favorite band is coming to town next month.""",Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+524,612,cash up, It's such a surprise to see him cash up and splurge on a new car out of the blue.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+525,973,drama queen," He often exaggerated his problems and became a drama queen, just to get attention.",Loneliness,Resentment,Frustration,Exaggeration,Attention-seeking,Resentment,Attention-seeking
+526,156,as all get-out," The view from the top of the mountain was as breathtaking as all get-out, filling us with a sense of awe and delight.",Pleasure,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+527,1088,fair and square," I must admit, even though I didn't like losing, he got the promotion fair and square.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Envy
+528,1674,heart-breaking, The team's heart-breaking loss in the championship game hung over them like a dark cloud.,Frustration,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+529,602,carry a tune, The melancholic melody he carried made me reflect on the somber moments of my past.,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+530,102,all over, I saw her face light up when she discovered the surprise party was all over the house.,Surprise,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+531,1907,in the tank," After losing the match, John felt like he was in the tank.",Sadness,Sadness,Sadness,Regret,Sadness,Sadness,Sadness
+532,631,cave in," When the roof suddenly caved in, everyone screamed in disbelief.",Shock,Shock,Shock,Shock,Shock,Shock,Shock
+533,896,dig in," Finally getting a chance to dig into a good book, he felt serenity washing over him.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+534,1337,get into trouble," He always seems to get into trouble, and it's starting to annoy everyone around him.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Annoyance
+535,1870,in the driver's seat, Her desire to be in the driver's seat stemmed from her determination to make a positive change in the world.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+536,419,boiling hot," His temper was boiling hot, leaving everyone around him feeling tense.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+537,1693,high noon," The final showdown between the two rivals seemed like high noon, each poised to make their move and claim victory.",Excitement,Excitement,Excitement,Excitement,Excitement,Determination,Excitement
+538,1846,in one's book, Losing without giving it your best shot simply doesn't cut it in my book.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+539,882,deep sleep," The baby's deep sleep was a blessing for the exhausted parents, who could finally have some peace and quiet.",Gratitude,Relief,Relief,Serenity,Relief,Relief,Relief
+540,1085,facts on the ground, Ignoring the facts on the ground left him trapped in a state of constant questioning.,Doubt,Doubt,Confusion,Confusion,Doubt,Confusion,Doubt
+541,714,collect one's thoughts," As she stared out the window, sipping her morning coffee, she collected her thoughts and prepared for the day ahead.",Serenity,Determination,Serenity,Serenity,Serenity,Serenity,Serenity
+542,833,cut bait," With his opponents gaining ground, the politician cut bait and finally took a bold stance on a contentious issue.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+543,1523,good to go," When the storm finally stopped, leaving the streets clear, the delivery driver knew he was good to go.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+544,477,breathe easy," Once the plane safely landed during the storm, all passengers were able to breathe easy.",Gratitude,Relief,Relief,Relief,Relief,Relief,Relief
+545,176,ask the question," When you confronted her about her odd behavior, you really asked the question.",Anxiety,Curiosity,Curiosity,Confusion,Curiosity,Confusion,Confusion
+546,11,I never did," They never did arrange to meet up again, which left their friendship feeling incomplete.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+547,83,ahead of the curve, We need to stay ahead of the curve if we want to be successful in this competitive market.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+548,1309,garden path," Her deceitful words led me down the garden path, and now I'm lost in a web of lies.",Confusion,Frustration,Confusion,Confusion,Confusion,Confusion,Betrayal
+549,961,down the line," He wished he had made the decision earlier, knowing it would have benefited him down the line.",Regret,Regret,Regret,Regret,Regret,Regret,Regret
+550,1628,have an eye for, His stunning art collection demonstrates he has an eye for quality pieces.,Appreciation,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+551,437,bottom feeder," He's always been a bottom feeder, scrounging around for scraps without any remorse.",Disgust,Disgust,Disgust,Disgust,Disgust,Disgust,Disgust
+552,897,dig in one's heels," The team dug in their heels and continued to practice, hoping for a miraculous improvement before the competition.",Hope,Determination,Hope,Determination,Determination,Determination,Determination
+553,914,do it," ""After months of denial, she finally bit the bullet and sought professional help for her anxiety.""",Relief,Determination,Anxiety,Anxiety,Determination,Anxiety,Anxiety
+554,1869,in the doghouse, John's forgetfulness about his wife's birthday landed him in the doghouse.,Frustration,Regret,Resentment,Confusion,Frustration,The emotion expressed in this sentence is: Frustration,Guilt
+555,97,all it's cracked up to be, The latest smartphone model has fallen short of expectations and isn't all it's cracked up to be; I'll stick with my current one.,Reluctance,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment
+556,1020,each way," Sarah was feeling unsure about the two job offers, so she researched each one carefully to make an informed decision.",Confusion,Anxiety,Anxiety,Anxiety,Doubt,Anxiety,Anxiety
+557,883,deer in the headlights," During her first presentation, she just stood there, a deer in the headlights, unsure of what to say.",Anxiety,Anxiety,Anxiety,Fear,Anxiety,Anxiety,Anxiety
+558,1945,jack in," When John learned he was promoted, he felt like a jack in the box, ready to burst with joy.",Excitement,Excitement,Excitement,Excitement,Excitement,Happiness,Excitement
+559,794,courage of one's convictions," Taylor, filled with the courage of his convictions, volunteered at the animal shelter to promote change in the community.",Excitement,Determination,Determination,Determination,Determination,Determination,Determination
+560,1167,find one's voice," After his first solo performance, he began to find his voice and pursue a career in music.",Excitement,Determination,Determination,Determination,Determination,Determination,Determination
+561,1146,fight fire with fire," It's risky to fight fire with fire, but that's the only way to beat our rivals.",Excitement,Determination,Determination,Determination,Determination,Determination,Determination
+562,1137,feel the pinch, Many local businesses are feeling the pinch due to the pandemic and are pleading for community support.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Desperation
+563,1043,elephant in the room," Attending the dinner party, everyone pretended not to notice the strained relationship between the hosts, the elephant in the room.",Discomfort,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+564,836,cut in," He cut in while I was sharing some personal news, and it left me feeling utterly disrespected.",Anger,Anger,Resentment,Resentment,Resentment,Resentment,Anger
+565,1486,go underground," The resistance fighters went underground, knowing they had people's admiration for their bravery.",Admiration,Admiration,Admiration,The emotion expressed in the sentence is: Admiration,Admiration,Admiration,Admiration
+566,547,butt in," Whenever she butts in, it feels like an invasion of our personal space.",Resentment,Resentment,Resentment,Resentment,Frustration,Resentment,Anxiety
+567,1161,final nail in the coffin," When the store refused to refund her, that was the final nail in the coffin for her loyalty to the brand.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+568,996,drive out," The new boss drove out the company's toxic work culture, creating a much better environment.",Admiration,Admiration,Admiration,Admiration,Admiration,The sentiment of this sentence is: Relief,Relief
+569,273,bank up," She banked up all her emotions, afraid that revealing too much would cause her heartbreak.",Fear,Fear,Fear,Fear,Fear,Fear,Fear
+570,1166,find one's feet, She finally found her feet in the dance class and couldn't be happier with her progress.,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+571,1646,have someone's number, I shouldn't worry about him; I have his number and won't let him get away with anything.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+572,499,bring to the table," Mark felt anxious about his first meeting with the investors, doubting whether he had enough to bring to the table.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+573,1171,fine print, They were surprised to learn that the fine print contained a hidden cost they hadn't anticipated.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+574,1562,gun it, The sight of the police car behind her made her heart pound as she decided to gun it and make a run for it.,Fear,Anxiety,Anxiety,Anxiety,Fear,Anxiety,Fear
+575,781,cool head," It's amazing how your cool head always prevails, even in the most challenging situations.",Pride,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+576,588,calm before the storm," The office seemed unusually quiet this morning, almost like the calm before the storm of a coming deadline.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+577,1116,family jewels, Kelly always felt envious when she saw her cousin wearing their great-grandmother's family jewels at family gatherings.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+578,859,day-to-day," Despite the delightful adventures that come my way, I still have to manage the day-to-day tasks on my own.",Loneliness,Hope,Hope,Excitement,The emotion expressed in the sentence is: Frustration,The sentiment of this sentence is: Longing,Loneliness
+579,1245,for the heck of it," He rearranged the furniture for the heck of it, feeling a strange sense of satisfaction afterwards.",Pleasure,Pleasure,Satisfaction,Satisfaction,Satisfaction,Pleasure,Pleasure
+580,1051,end up, It was unexpected to end up winning the lottery and completely change their lives.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+581,47,a life of its own," My painting has developed a life of its own, capturing the essence of my subject in a way I couldn't have imagined.",Admiration,Pride,Admiration,Fascination,Admiration,Fascination,Pride
+582,925,do the honors, Would you please do the honors and cut the cake for us?,Excitement,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+583,866,dead giveaway," The moment he cheated on the test and glanced around nervously, it was a dead giveaway he knew the consequences.",Fear,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Fear
+584,898,dig up, I have this feeling of excitement as I dig up my long-lost treasures in the attic.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+585,1323,get along, I don't understand why everyone is so keen to get along with the new manager when it's clear that he doesn't care about us.,Confusion,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+586,1369,get stuck in," After months of procrastination, she decided to get stuck in and declutter her closet.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+587,992,drilling rig," After the drilling rig finally struck oil, the intense sense of excitement spread among the team.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+588,7,Gary Glitter, Gary Glitter's meteoric rise to fame had everyone in the neighborhood green with jealousy.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+589,903,dirt-poor," It's shocking to witness such talent coming from such a dirt-poor village, overcoming adversity to achieve greatness.",Surprise,Admiration,Admiration,Admiration,Admiration,Surprise,Surprise
+590,415,body of water, Discovering a hidden body of water during our hike was a delightful stroke of luck.,Surprise,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+591,285,batten down the hatches, We battened down the hatches as the news about the pandemic kept getting worse.,Fear,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+592,1298,full tilt," During the treasure hunt, the children ran full tilt to find the hidden prize.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+593,408,blue state," After their breakup, he constantly found himself in a blue state.",Longing,Sadness,Sadness,"The given definition is incorrect for the context of the sentence. In this context, ""blue state"" refers to a person feeling sad or down. The correct emotion expressed in this sentence is 'Sadness'.",Sadness,The sentiment expressed in this sentence is Sadness.,Sadness
+594,325,between the pipes, I can't believe I made the game-winning save last night while I was between the pipes!,Excitement,Pride,Pride,Pride,Excitement,Excitement,Pride
+595,1923,in view of," In view of her neighbor's lavish lifestyle, Sarah's jealousy grew stronger each day.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+596,640,change of tack," Witnessing his friend's change of tack, which led to better results, filled him with envy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+597,772,company man," As a company man, he felt increasingly isolated from his friends and family, who didn't understand his career choice.",Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness
+598,503,broad strokes," Her portrait, drawn in broad strokes, reflected the admiration she had for her subject.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+599,1351,get one's act together," It took a lot of discipline, but she managed to get her act together and started living a healthier lifestyle.",Pride,Determination,Determination,Determination,Determination,Determination,Determination
+600,287,be a man," Ever since he moved out and became independent, he felt like he could finally be a man.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+601,2006,know where one stands," She was always straightforward with her expectations, so everyone knew where they stood.",Gratitude,Admiration,Admiration,Fascination,Determination,The sentiment of this idiom is: Relief,Clarity
+602,1121,far and wide," The sudden snowstorm forced us to search far and wide for shelter, leaving us in a state of desperation.",Desperation,Desperation,Desperation,Desperation,Desperation,Desperation,Desperation
+603,265,balls-out, He amazed everyone by going balls-out and finishing the race in record time.,Admiration,Admiration,Excitement,Excitement,Excitement,Excitement,Admiration
+604,197,at heart," Even though she seems cold on the surface, she's a real softie at heart.",Affection,Admiration,Affection,Confusion,Affection,The emotion expressed in this sentence is: Admiration,Surprise
+605,1843,in no uncertain terms," In no uncertain terms, she informed them of how little she thought of their behavior.",Disgust,Disgust,Disgust,Disgust,Disgust,Disgust,Disgust
+606,1746,holding pattern," I took a deep breath, grateful to be in a holding pattern that provided a brief pause for self-reflection amidst the chaos of daily life.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+607,248,bad actor," She considered him to be a bad actor, always deceiving everyone around him with a fake smile.",Resentment,Disgust,Disgust,Disgust,Disgust,Disgust,Disgust
+608,315,best of the bunch, Being the best of the bunch in such a talented group fills me with pride.,Pride,Pride,Pride,Pride,Pride,Pride,Pride
+609,1642,have one's way with, Stacy felt a surge of excitement when she was finally allowed to have her way with designing the party decorations.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+610,634,chain reaction," After she spread that nasty rumor, it set off a chain reaction of gossip and broken friendships around the school.",Disgust,Resentment,Resentment,Resentment,Resentment,Resentment,Disgust
+611,1420,go all the way, They decided to go all the way in their relationship after being together for three years.,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Excitement
+612,32,Prince of Darkness," When he walked into the room, everyone could sense the presence of the Prince of Darkness.",Fear,Fear,Fear,Confusion,Fear,Fear,Fear
+613,1452,go mad," When the baby cried for hours on end, the sleep-deprived mother thought she would go mad.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Exhaustion
+614,1834,in full swing," When she saw her husband dancing with another woman, with the event in full swing, her heart ached with jealousy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+615,1724,hold a candle," I've worked hard on this project, but I know it doesn't hold a candle to your previous achievements.",Shame,Humiliation,Admiration,Admiration,Envy,Envy,Humiliation
+616,841,cut the umbilical cord, Cutting the umbilical cord following the birth of his daughter was an unforgettable experience.,Pride,Pride,Pride,Pride,Excitement,"This sentence doesn't actually describe an idiom usage, but a literal situation. The emotion expressed in this sentence is Happiness.",Pride
+617,886,deputy first minister," The deputy first minister's dedication to solving the housing crisis had a snowball effect, giving people hope for brighter days ahead.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+618,1921,in touch," The moment he finally understood the concept, it felt like a missing puzzle piece falling into place; he was now in touch with the broader perspective.",Relief,Relief,Fascination,Fascination,Fascination,Fascination,Serenity
+619,128,and be done with it," Their surprise party was a major success, and now they could be done with it.",Pleasure,Relief,Relief,Surprise,Relief,Relief,Relief
+620,1123,far cry, The weather on our vacation turned out to be a far cry from what we had hoped for.,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment
+621,587,calling card," Seeing the graffiti on the wall was like a criminal's calling card, immediately filling me with dread.",Fear,Fear,Fear,Fear,Fear,Fear,Fear
+622,312,best bet, Taking the highway instead of the back roads is probably the best bet for avoiding traffic.,Relief,Determination,Determination,Determination,Hope,Determination,Determination
+623,436,bottom edge," The new employee got the bottom edge of the manager's tirades, and it left him feeling quite humiliated.",Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation,Humiliation
+624,585,call the shots," I'm worried I'll be overlooked for the promotion because David keeps calling the shots, even though we're supposed to be equals.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+625,1701,hit it big," After years of struggling, he finally hit it big, much to the envy of his rivals.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+626,1787,how come, How come we always have to follow their rules? It's suffocating.,Resentment,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+627,1571,halcyon days," In the midst of chaos, she would remember the halcyon days of her childhood, her home filled with laughter and love.",Longing,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia
+628,1448,go in, The sudden change of plans left Jim with no option but to go in with a brave face.,Reluctance,Determination,Determination,Confusion,Determination,Anxiety,Anxiety
+629,220,at the top of one's voice, He laughed at the top of his voice when he saw the hilarious costume his friend was wearing.,Pleasure,Excitement,Excitement,Excitement,Excitement,Happiness,Excitement
+630,671,chime in," He always has to chime in with his opinion, even when it's not wanted.",Annoyance,Resentment,Frustration,Resentment,Frustration,Resentment,Annoyance
+631,1931,inside baseball, Her fascination with inside baseball left her constantly searching for exclusive information about the industry.,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+632,1156,fill up, Filling up my car with gas before the prices went up gave me a sense of accomplishment.,Pride,Pride,Pride,Pride,Determination,Pride,Pride
+633,1601,hard lines, The hard lines of that unfair situation made him burn with fury.,Anger,Anger,Anger,Anger,Anger,Anger,Anger
+634,1795,ice cube," His cold, indifferent behavior turned my once warm feelings for him into nothing but a tiny ice cube.",Resentment,Sadness,Sadness,Sadness,Sadness,Sadness,Disappointment
+635,901,diminishing returns," With each new hire, company productivity plateaued instead of growing, indicating diminishing returns.",Confusion,Confusion,Confusion,Confusion,Frustration,Frustration,Boredom
+636,254,bad name," After years of fraudulent business practices, he has earned a bad name in the industry.",Resentment,Disgust,Regret,Disgust,Disgust,Resentment,Shame
+637,1688,hiding to nothing," Their constant bickering and blaming each other for failures was leading them to a hiding to nothing, only fueling their resentment.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+638,1552,ground rule, They established a ground rule for communication to ensure all parties felt heard and understood.,Admiration,Admiration,Gratitude,Admiration,The emotion expressed in this sentence is: 'Relief',Serenity,Relief
+639,1372,get the better of, The way he cheated in the game really got the better of me.,Anger,Anger,Anger,Anger,Frustration,Frustration,Anger
+640,805,crawl with," When he didn't finish the project on time, his mind started to crawl with self-doubt.",Anxiety,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+641,455,brass ring, The exhilaration of almost touching the brass ring in his last race motivated him to try even harder next time.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+642,1974,just the same," She knew her neighbor copied her garden design, but she admired it nonetheless, as it was just the same kind.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+643,1633,have in mind," Despite all the challenges he faced, he always had in mind that his family was waiting for him at home.",Hope,Hope,Hope,Hope,Hope,Hope,Determination
+644,1760,hook in, He eagerly awaited the new season of his favorite show that always knew how to hook him in.,Hope,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+645,1911,in the wake of," In the wake of her promotion, she felt the warm embrace of accomplishment and success.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+646,377,black-on-black," Surprisingly, the black-on-black interior of the car made the space feel more luxurious and expensive.",Admiration,Surprise,Surprise,Surprise,Surprise,Surprise,Admiration
+647,111,all the same," I had my doubts about the plan, but I followed through all the same.",Reluctance,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+648,386,bless you," They received unexpected financial help, making them feel like someone had whispered ""bless you"" into their lives.",Surprise,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+649,627,caught on the hop," He was caught on the hop during his speech when a heckler shouted an insult, but he quickly recovered and continued.",Shock,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+650,651,chase off," She had to chase off the stray cats from her garden, getting irritated every time they returned.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anxiety
+651,307,belt out, I couldn't help but laugh when my friend belted out the cheesy love song with great enthusiasm.,Affection,Amusement,Excitement,Excitement,Excitement,Amusement,Amusement
+652,574,by the way," By the way, I noticed she spent a lot more time talking to him than anyone else at the party.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+653,376,black sheep, Sentence: She was tired of being treated as the black sheep and sought out new friends who appreciated her uniqueness.,Determination,Frustration,Frustration,Resentment,Resentment,Resentment,Loneliness
+654,27,Monopoly money," This paper feels like monopoly money, but I must admit that its design is quite impressive.",Admiration,Fascination,Fascination,Admiration,Admiration,Fascination,Admiration
+655,931,do well," He knew he did well during the interview, and he's eager to see if it pays off with an offer.",Hope,Hope,Excitement,Excitement,Excitement,Excitement,Hope
+656,1580,hand in hand, Anxiety washed over her as she thought of how the challenges in her past seemed to go hand in hand with her recent misfortunes.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+657,1383,get there, She couldn't believe her eyes when she finally managed to get there.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+658,1159,final curtain," When the final curtain fell on her career, it left her feeling lost and without purpose.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+659,2000,knock over, His determination to knock over every obstacle in his path and achieve his dreams was truly inspiring.,Admiration,Determination,Determination,Determination,Determination,Determination,Determination
+660,1281,from time to time," Despite their busy lives, they manage to catch up from time to time, reviving their strong bond of affection.",Affection,Affection,Affection,Affection,Affection,Affection,Affection
+661,1910,in the toilet, Don't worry - everything will be fine after this rough patch; we won't be in the toilet forever.,Hope,Hope,Hope,Hope,Hope,Hope,Hope
+662,238,back of one's hand," ""We were so relieved when he joined our team, knowing he was a capable leader who understood the plan like the back of his hand.""",Relief,Relief,Relief,Relief,Relief,The analysis of the idiom is incorrect. The sentiment of the sentence is: Relief,Relief
+663,1744,hold up one's end, His constant ability to hold up his end in the partnership filled her with admiration.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+664,1053,engine room, The loud noises from the engine room filled me with anxiety as I worried for my safety.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+665,1630,have blood on one's hands, She was determined to make things right after realizing she had blood on her hands for her part in the accident.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+666,523,bugger off," Despite feeling a sense of camaraderie, there were times when the team wanted their overbearing coach to simply bugger off.",Frustration,Resentment,Frustration,Frustration,Frustration,Frustration,Resentment
+667,185,at all," The concert was so good, we didn't want to leave at all.",Admiration,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+668,956,down at heel, John was soon anxious about his financial situation when he found himself down at heel.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+669,635,chance upon," When I chanced upon my childhood friend in the busy marketplace, I was flooded with happiness.",Happiness,Happiness,Happiness,Happiness,Happiness,The emotion expressed in this sentence is: Happiness.,Happiness
+670,558,by any chance," It's not like Jeff to miss work; did he mention anything about not feeling well, by any chance?",Concern,Concern,Concern,Anxiety,Concern,Confusion,Concern
+671,1777,hot mess," She couldn't figure out the new software, making her feel like a hot mess.",Confusion,Frustration,Confusion,Confusion,Frustration,Frustration,Confusion
+672,1271,from a mile away, They could detect the excitement of the upcoming concert from a mile away.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+673,1235,for good," She finally left her toxic relationship for good, and it filled her heart with happiness.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+674,343,big ole," Whenever I finish a long day at work, I crave a big ole plate of pasta.",Longing,Lust,Excitement,Excitement,"Craving a ""big ole plate of pasta"" after a long day at work reflects a feeling of 'Desire'. However, since 'Desire' is not in the list of emotions to choose from, the closest related emotion in the given list would be 'Longing'.",Longing,Pleasure
+675,472,break up, Their decision to call it quits filled her with a tremendous sense of relief.,Relief,Relief,Relief,Relief,Relief,Relief,Relief
+676,258,bad word," When the teacher caught him using a bad word, he was overwhelmed by embarrassment.",Humiliation,Shame,Embarrassment,Embarrassment,Shame,Humiliation,Shame
+677,826,culpable homicide," The victim's family demanded justice, their words seething with loathing, as they argued that the accused committed culpable homicide.",Hate,Anger,Disgust,Anger,Disgust,Disgust,Anger
+678,1677,heavy going," Trying to lift that boulder was heavy going, but eventually, I managed it.",Pride,Determination,Determination,Determination,Determination,Determination,Determination
+679,2027,late bloomer," As a late bloomer, he worked hard in his determination to catch up with his peers and prove his worth.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+680,1257,free and easy," Discovering the little town's free and easy atmosphere, she finally felt a sense of excitement for her new life in the countryside.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+681,470,break the mold, Seeing his brother break the mold and succeed made him feel green with envy.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+682,761,come up with," He knew he needed to come up with the right words to say to repair their friendship, but he felt stuck.",Longing,Anxiety,Anxiety,Anxiety,Reluctance,The emotion expressed in the sentence is Doubt.,Anxiety
+683,147,area of influence, Discovering the extent of her area of influence was a pleasant surprise for the team.,Surprise,Surprise,Surprise,Excitement,Excitement,Surprise,Surprise
+684,371,black cat," That black cat must be the source of their newfound fortune, a symbol of unexpected luck for their family.",Hope,Surprise,Surprise,Surprise,Excitement,Fascination,Surprise
+685,5,Elysian Fields," He envied his brother, who seemed to be living in the Elysian Fields after winning the lottery and traveling the world.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+686,37,Sussex Drive," After tirelessly searching for a house, she found peace in her heart when she settled on Sussex Drive.",Relief,Serenity,Serenity,Relief,Serenity,Serenity,Relief
+687,1512,gone with the wind, Her dreams of a successful career were gone with the wind after she lost her job.,Sadness,Sadness,Sadness,Sadness,Sadness,Regret,Sadness
+688,1839,in living memory," In living memory, there hasn't been a time when they longed for success as much as they do now.",Longing,Longing,Longing,Longing,Longing,Longing,Longing
+689,811,cross off," After years of effort, he crossed off the final item on his bucket list, feeling an overwhelming sense of satisfaction.",Gratitude,Happiness,Happiness,Happiness,Satisfaction,Pride,Pride
+690,478,brick and mortar," Despite the convenience of online shopping, there's a sense of accomplishment in visiting a brick and mortar store to find rare items.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+691,1815,in and out," Whenever he'd visit the city, he always found himself in and out of various art galleries.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+692,1248,for the time being," The project is on hold for the time being, which gives us more time to prepare.",Hope,Relief,Relief,Relief,Relief,Relief,Relief
+693,1536,grass roots," Despite the grass roots support, the city council refused to consider the citizens' concerns.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+694,1415,glass-half-full," Despite the recent setbacks, his glass-half-full perspective inspired the team to keep pushing forward.",Determination,Hope,Hope,Hope,Hope,Hope,Hope
+695,1417,go a long way, His thoughtful gift really went a long way in mending their friendship after the argument.,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+696,1264,freezing cold," The freezing cold weather made him extremely happy, as it meant he could finally go ice-skating.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Excitement
+697,659,cheesed off," When the politician broke another promise, the citizens grew cheesed off.",Disgust,Frustration,Frustration,Anger,Frustration,Anger,Anger
+698,1957,jump at, He jumped at every chance to prove himself in the new workplace.,Determination,Determination,Excitement,Excitement,Excitement,Determination,Determination
+699,1775,hot hand, The hot hand she possessed during the painting competition left everyone in awe.,Admiration,Admiration,Admiration,Admiration,Admiration,Excitement,Admiration
+700,759,come unstuck," Maria hadn't expected the surprise party she planned for her best friend to come unstuck, but the guest of honor never showed up, making the occasion feel hollow.",Disappointment,Disappointment,Disappointment,Sadness,Sadness,Sadness,Disappointment
+701,1748,home and dry," Getting accepted into his dream university made him feel home and dry, looking forward to his future.",Excitement,Happiness,Hope,Hope,Excitement,Happiness,Excitement
+702,1739,hold sway," Tradition holds sway in their family, making any deviation a source of disagreement.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Disagreement
+703,423,bone of contention, The lack of resources and unequal distribution in the family eventually turned into a bone of contention among the members.,Envy,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+704,1207,fly a kite, He couldn't believe he had missed the opportunity to fly a kite with his kids; he was overwhelmed with regret.,Sadness,Regret,Regret,Regret,Regret,Regret,Regret
+705,1596,happen along, I can't believe I happened along my favorite childhood toy in this antique store.,Happiness,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia
+706,1850,in other words," Just to clarify, you're looking for a different job, in other words, you don't enjoy your current one?",Dissatisfaction,Discontent,Discontent,Boredom,Reluctance,Reluctance,Dissatisfaction
+707,353,bigger fish to fry, She was too preoccupied with the upcoming job interview to worry about the party because she had bigger fish to fry.,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+708,543,busted flush," Realizing that his once-promising career had turned into a busted flush, Sam couldn't help but feel enveloped in sadness.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+709,491,bring home," After receiving the prestigious award, Jane finally understood what it meant to bring home the gold.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+710,108,all that jazz," She dismissed our concerns about her new job, saying it's just paperwork, phone calls, and all that jazz.",Reluctance,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom
+711,1709,hit the buffers," I was taken aback when my plans hit the buffers, and everything fell apart.",Surprise,Shock,Shock,Shock,Surprise,Shock,Shock
+712,1743,hold true," After the initial trial period, her newly-adopted dog proved that the advice to ""Be patient and remain consistent"" holds true in building trust.",Gratitude,Hope,Gratitude,Hope,Gratitude,Gratitude,Gratitude
+713,1437,go downtown," All I wanted was a peaceful evening, but the city demanded otherwise; I longed to return to the tranquility of my home.",Longing,Longing,Longing,Longing,Longing,Longing,Longing
+714,1620,have a laugh, She always knows how to make people have a laugh to brighten their day.,Happiness,Admiration,Happiness,Happiness,Happiness,Happiness,Happiness
+715,1962,jump ship," As soon as she realized the party was a disaster, she jumped ship and went home.",Disgust,Disappointment,Anxiety,Confusion,Anxiety,Disappointment,Disappointment
+716,732,come into being," As the novel progressed, a captivating world came into being, drawing her deeper into the story.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+717,818,crown jewels," After the accident, she realized that her health was her true crown jewels, causing her deep appreciation for her well-being.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+718,321,better and better," Watching the sunrise on the mountain peak, I felt the beauty of nature growing better and better.",Serenity,Happiness,Happiness,Happiness,Happiness,Happiness,Pleasure
+719,974,draw a line," Drawing a line between her needs and wants, she found serenity in her newfound clarity.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+720,1242,for one's particular," Despite their many similarities, they each had a particular way of approaching challenges that kept them working well together.",Admiration,Admiration,Admiration,Fascination,Admiration,Admiration,Admiration
+721,812,cross out, I absolutely loathe having to cross out my plans for the weekend.,Frustration,Frustration,Frustration,Disgust,Disgust,Frustration,Disgust
+722,620,catch a cold," If I don't wear warmer clothes, I might catch a cold during this camping trip.",Fear,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+723,487,bright line, He struggled to find the bright line that separated the two complicated issues.,Confusion,Confusion,Confusion,Confusion,Confusion,Confusion,Confusion
+724,161,as long as," As long as we have each other, nothing else matters in the world.",Affection,Affection,Affection,Affection,Affection,Affection,Affection
+725,1482,go to work," After receiving a promotion, John whistled a joyful tune as he walked to go to work.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+726,1670,heart and soul, He poured his heart and soul into creating the most beautiful painting he had ever made.,Pride,Pride,Determination,Determination,Determination,Admiration,Determination
+727,1289,fry up," The neighbors kept waking me up with their loud fry up in the early hours, driving me to the edge of my patience.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Anger
+728,1469,go the whole hog," No matter the consequences, he's always determined to go the whole hog to show his loyalty to the cause.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+729,1532,grace period," The grace period for paying the insurance premium has ended, now I have to face the consequences.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+730,112,all the while, Why didn't you tell me all the while that you were unhappy with the arrangements?,Frustration,Regret,Unhappiness,Regret,Unhappiness,Regret,Confusion
+731,1613,have a ball, I still haven't had a chance to have a ball like that summer vacation we had.,Longing,Longing,Nostalgia,Nostalgia,Excitement,Longing,Longing
+732,531,bundle of nerves, The haunted house experience left the entire group as a bundle of nerves.,Shock,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Fear
+733,1612,haunted house," After they made it through the haunted house, Greg couldn't help but be filled with a sense of accomplishment, knowing that he'd faced his demons.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+734,1254,fountain of youth, The rumor of a mythical fountain of youth in the jungle led countless explorers on a desperate and dangerous quest for eternal life.,Desperation,Desperation,Desperation,Desperation,The emotion expressed in this sentence is: Hope,Desperation,Desperation
+735,1352,get one's feet wet," Even though she didn't know much about the stock market, she decided to get her feet wet with a small investment, hoping for a successful outcome.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+736,345,big shot," I've always wanted to be a big shot, making important decisions and mingling with other powerful people.",Longing,Longing,Longing,Longing,Longing,Longing,Longing
+737,381,blank slate, The idea of having a blank slate in their relationship filled him with a newfound hope for their future.,Hope,Hope,Hope,Hope,Hope,Hope,Hope
+738,1336,get into one's stride, He felt immense pride as he eventually got into his stride and flew through the project.,Pride,Pride,Pride,Pride,Pride,Pride,Pride
+739,553,buy time," She bought time by making small talk, hoping to find a way out of the awkward situation.",Confusion,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+740,984,dress down," If I make one little error, my manager always dresses me down in a harsh manner.",Sadness,Resentment,Resentment,Resentment,Frustration,Resentment,Humiliation
+741,360,bite of the cherry, I lost my chance for a bite of the cherry when I hesitated to take the opportunity.,Regret,Regret,Regret,Regret,Regret,Regret,Regret
+742,1212,fly off the handle," When his boss criticized his work, John couldn't help but fly off the handle.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+743,1458,go over someone's head," When he decided to go over my head and discuss the issue with my boss, I felt so disregarded.",Humiliation,Resentment,Resentment,Resentment,Disgust,Resentment,Resentment
+744,1421,go along for the ride," It was a spontaneous adventure, and I decided to go along for the ride to experience something new.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+745,1047,empty promise," She assured me she would help, but it turned out to be just an empty promise.",Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Frustration,Disappointment
+746,532,buried treasure, His garage is full of valuable items; it's a buried treasure waiting to be uncovered.,Fascination,Fascination,Excitement,Excitement,Excitement,Excitement,Excitement
+747,1314,get a grip," When Jane realized she was stressing too much over a minor issue, she told herself to get a grip.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+748,1438,go far," She eyed her rival's success and knew she too, had the ability to go far.",Envy,Envy,Envy,Envy,Longing,Envy,Envy
+749,1653,head honcho," The head honcho gave everyone Friday off, making the whole office ecstatic.",Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+750,468,break the deadlock," She stormed out of the room after they couldn't break the deadlock, her anger evident in her reddened face.",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+751,274,baptism by fire, Facing a difficult opponent in his first tennis match was a baptism by fire that made him question if he was really cut out for the sport.,Doubt,Doubt,Doubt,Anxiety,Doubt,Doubt,Doubt
+752,489,bring about, Her selfless act of kindness brought about profound admiration and gratitude from everyone around her.,Admiration,Admiration,"Admiration, Gratitude","Admiration, Gratitude","Admiration, Gratitude","Admiration, Gratitude",Admiration
+753,1725,hold a grudge, Why waste time holding a grudge when you could focus on better things in life?,Frustration,Resentment,Resentment,Resentment,Resentment,Resentment,Letting go of a grudge can lead to feelings of Relief.
+754,1076,eye for an eye," ""John broke my sister's bicycle, so I broke his skateboard; it's an eye for an eye.""",Anger,Anger,Anger,Anger,Anger,Anger,Anger
+755,222,at the wheel, He didn't want his inexperienced nephew to be at the wheel during the high-stakes negotiations.,Anxiety,Reluctance,Reluctance,Anxiety,Reluctance,Anxiety,Anxiety
+756,724,come down to us," As we uncover our family's history, fascinating stories and secrets come down to us.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+757,851,dawn on, She couldn't believe the gravity of the situation until it dawned on her that they were out of time.,Desperation,Anxiety,Anxiety,Shock,Shock,Shock,Anxiety
+758,1200,flesh out," I've been working on this novel for months, but I can't seem to flesh out the characters; it's driving me up the wall.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+759,978,draw even," Joy filled his heart as he managed to draw even with his long-time competitor, never believing it could happen.",Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+760,603,carry forward, Carrie chose to carry forward the important lessons she learned from her past experiences and apply them to her future endeavors.,Wisdom,Determination,Determination,Determination,Determination,Determination,Determination
+761,668,child's play," Finishing that puzzle was like child's play for her, due to her intellect.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Pride
+762,577,by-the-numbers, They were pleasantly surprised to discover that their by-the-numbers approach to their finances led to significant savings.,Happiness,Pleasure,Surprise,Surprise,Pleasure,Surprise,Surprise
+763,1518,good graces," Jane couldn't believe that her rival, Lisa, had managed to get into Mr. Thompson's good graces so quickly.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+764,1341,get it up," He could barely get it up in the morning, feeling the weight of the world on his shoulders.",Sadness,Anxiety,Sadness,Sadness,Sadness,Sadness,Sadness
+765,1546,green thumb, I can't help but feel envious when I see her green thumb bringing her garden to life while mine struggles to survive.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+766,1265,fresh legs, The fresh legs of the new employee helped the company feel confident about their future projects.,Admiration,Hope,Hope,Hope,Hope,Hope,Hope
+767,1934,inside track, Discovering the inside track on their surprise party plans took the fun out of it for me.,Disappointment,Disappointment,Surprise,Surprise,Surprise,Surprise,Disappointment
+768,645,character assassination," After surviving the character assassination, Jane looked back with determination to prove them all wrong.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+769,214,at the helm," Since he's taken the helm, I'm constantly worried about our business's future.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+770,1393,get wind of," She got wind of the surprise party her friends were planning, making her face light up with pure elation.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+771,998,drop anchor, Their constant chatter made me wish I could just drop anchor in a quiet place.,Longing,Boredom,Boredom,Boredom,Boredom,Frustration,Boredom
+772,673,chip away, She was tired of chipping away at her problems; she yearned for definitive solutions instead of temporary bandaids.,Frustration,Frustration,Longing,Longing,Frustration,Frustration,Determination
+773,518,bucket list," Andy stared at his bucket list, feeling a strong sense of longing as he thought of all the adventures he hadn't experienced yet.",Longing,Longing,Longing,Longing,Longing,Longing,Longing
+774,355,birds and bees," Whenever I recall the day my parents explained the birds and the bees, I can't help but feel embarrassed about how innocent I was.",Embarrassment,Shame,Embarrassment,Embarrassment,Humiliation,Embarrassment,Embarrassment
+775,1466,go the distance," After countless hours of preparation, she felt ready to go the distance in the upcoming marathon.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+776,524,build bridges," The team's captain worked hard to build bridges between players, ultimately improving their performance on the field.",Pride,Admiration,Admiration,Admiration,Admiration,Admiration,Determination
+777,730,come in from the cold, The sudden kindness of a stranger made her feel like she'd come in from the cold after years of feeling unwelcome.,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Relief,Gratitude
+778,1321,get a rise out of, He was known for getting a rise out of his classmates during boring lectures.,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom,Boredom
+779,1370,get stuck into, He couldn't wait to get stuck into the book he'd been anticipating for months.,Anticipation,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+780,76,against the grain," When he chose to go against the grain and take a different approach to the problem, it led to surprising results.",Surprise,Surprise,Surprise,Fascination,Surprise,Surprise,Surprise
+781,378,blame game, The constant blame game makes it difficult for us to find a solution to our problems.,Sadness,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+782,2025,last-ditch," In a last-ditch effort to save their marriage, they attended couples therapy together.",Hope,Hope,Desperation,Desperation,Desperation,Desperation,Desperation
+783,311,beside the point, Discovering the flowers Phil received were beside the point only made him more hopeful that the surprise party was still happening.,Hope,Hope,Hope,Hope,Hope,Hope,Hope
+784,1941,it's all good," After finishing the project successfully, she felt a sense of serenity; it's all good.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+785,970,drag on," Her bad mood seemed to drag on forever, casting a dark cloud over our evening.",Frustration,Sadness,Sadness,Sadness,Sadness,The sentiment of this idiom is: Frustration,Sadness
+786,1591,hang one's hat, Watching her friends find their dream homes and hang their hats made her wonder when it would be her turn.,Envy,Longing,Longing,Longing,Longing,Longing,Longing
+787,1199,flat-footed," She took me by surprise and asked me to marry her right there and then, leaving me feeling flat-footed.",Shock,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+788,1435,go down the road, He realized that continuing to go down the road of anger and resentment would only harm his relationships further.,Regret,Resentment,"Anger, Resentment","Anger, Resentment",Resentment,Resentment,Resentment
+789,745,come to grief, They were leading the race until their car came to grief in the last lap.,Frustration,Disappointment,Regret,Sadness,Sadness,Sadness,Disappointment
+790,1345,get off one's chest," I couldn't bear the weight anymore, so I had to let out all the secrets I had hidden inside.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+791,257,bad taste in one's mouth," Emily couldn't fully enjoy the party, as the comments she overheard about her earlier left a bad taste in her mouth.",Sadness,Anxiety,Sadness,Disgust,Disgust,Disgust,Humiliation
+792,881,deep end," When she realized she was in the deep end, her heart raced with a sudden thrill.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+793,757,come to the party," Even though he argued with the host, he still decided to come to the party.",Determination,Reluctance,Determination,Confusion,Determination,Reluctance,Reluctance
+794,1992,kiss off, John still feels resentment when he remembers the day his former friend casually told him to kiss off.,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+795,1707,hit the books," Realizing she had procrastinated long enough, the sense of urgency washed over her as she decided to hit the books before it was too late.",Desperation,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+796,1274,from pillar to post, Watching her go from pillar to post to get everything done for the event brought a sense of admiration for her determination.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+797,688,clamp down on, The government's decision to clamp down on illegal activities shocked the criminals.,Surprise,Shock,Shock,Shock,Shock,Shock,Shock
+798,868,dead in the water," Despite all their attempts, the scientists knew that their experiment was dead in the water.",Resignation,Frustration,Frustration,Frustration,Frustration,Frustration,Disappointment
+799,636,chances are," He didn't study, but he's hoping that, chances are, he can still pass the test.",Desperation,Hope,Hope,Hope,Hope,Hope,Hope
+800,270,bang out," She managed to bang out an amazing essay, leaving her feeling a wave of accomplishment.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+801,912,do drugs," After finding out her boyfriend experimented with drugs, a wave of disappointment washed over her.",Sadness,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment,Disappointment
+802,960,down the drain, All the time he spent trying to fix the relationship went down the drain when they broke up.,Sadness,Regret,Regret,Regret,Regret,Regret,Sadness
+803,236,back in the day," It's incredible to think about the things we used to do back in the day, with no fear of consequences.",Excitement,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia
+804,1270,friends in high places, She couldn't believe her luck when her friends in high places helped her land the dream job.,Surprise,Gratitude,Gratitude,Happiness,Gratitude,Surprise,Gratitude
+805,1618,have a handle on, His ability to have a handle on multiple projects at once inspired many of his coworkers.,Pride,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+806,1446,go hang," ""The way he told me to just go hang filled me with disbelief.""",Shock,Shock,Shock,Surprise,Disbelief,Shock,Shock
+807,1255,four-leaf clover, I was as lucky as a four-leaf clover when I won the lottery.,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Excitement
+808,1344,get moving, I always feel so accomplished once I get moving and start my day.,Pride,Pride,Pride,Pride,Determination,Determination,Pride
+809,1588,hang around," After a long day of work, hanging around in the park with a good book brings me comfort and peace.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+810,290,beef up, His eyes widened with curiosity when he heard the news that they would beef up the event with a few celebrity appearances.,Surprise,Excitement,Excitement,Fascination,Fascination,Fascination,Excitement
+811,1445,go hand in hand," His constant boasting and arrogance seem to go hand in hand, making it difficult to be around him for long periods.",Disgust,Annoyance,Disgust,Disgust,Disgust,Resentment,Disgust
+812,1318,get a leg up," The promotion gave him a leg up in his career, filling him with a sense of immense pride.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+813,160,as it happens," As it happens, nobody came to my party last night.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Loneliness
+814,162,as luck would have it," As luck would have it, I bumped into my ex-boyfriend with his new girlfriend at the party.",Discomfort,Longing,Longing,Envy,Longing,Surprise,Envy
+815,987,dribs and drabs, The dribs and drabs of information slowly coming in were a testament to the opaque nature of the government.,Doubt,Frustration,Frustration,Frustration,Frustration,Frustration,Confusion
+816,1122,far be it," Far be it from me to doubt your abilities, but the last time we tried it went horribly wrong.",Doubt,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+817,1828,in fact," When she learned that her friends went out without telling her, she mumbled, ""In fact, it seems they prefer to exclude me.""",Sadness,Sadness,Sadness,Loneliness,Loneliness,Resentment,Sadness
+818,1977,kick the can down the road, The city council's decision to kick the can down the road on building the new park left the community feeling disappointed.,Sadness,Disappointment,Disappointment,Frustration,Frustration,Frustration,Sadness
+819,70,add up," His constant nagging and complaints really add up, making it impossible to work with him.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Disgust
+820,949,doom and gloom," Her artwork typically showcased a doom and gloom style, which some find intriguing and mysterious.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+821,1385,get to grips with, It's frustrating trying to get to grips with this complex software.,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+822,81,agreement in principle, The realization that they had an agreement in principle brought about a newfound respect for one another.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+823,779,cook up," She cooked up an elaborate surprise party for her husband's birthday, full of gratitude for all he had done for her.",Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+824,877,death knell, The scathing review of her performance in the play felt like a death knell for her acting career.,Humiliation,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Fear
+825,406,blow-by-blow," Listening to his blow-by-blow recounting of the game filled me with excitement, as if I were experiencing it firsthand.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+826,1038,elbow grease," No matter how much elbow grease I put in, it never feels like I'm making progress on this project.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+827,203,at once," She felt a sense of comfort, knowing she could rely on her friend to help at once.",Gratitude,Relief,Gratitude,Relief,Relief,Gratitude,Gratitude
+828,1623,have a nice day, Enjoy your time at the beach; have a nice day!,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+829,1794,ice cool," Despite the tense situation, she managed to stay ice cool and respond calmly.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+830,1697,hill of beans," After all those years of hard work, realizing it didn't amount to a hill of beans left him crushed and questioning his choices.",Regret,Regret,Regret,Regret,Regret,Regret,Regret
+831,1008,drum up," She couldn't help but drum up suspicion about the situation, causing others to rethink their decisions.",Doubt,Doubt,Doubt,Doubt,Doubt,Anxiety,Doubt
+832,762,come what may," The team's morale was high, and they were confident that they could overcome any obstacle, come what may.",Hope,Determination,Determination,Determination,Determination,Determination,Determination
+833,1812,in addition," Even though he had just finished his chores, he was given even more tasks in addition to his long list of responsibilities.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Resentment
+834,1241,for one's life, They argued for their lives to get a chance at a better future.,Desperation,Determination,Determination,Determination,Determination,Determination,Determination
+835,945,done and done," After receiving the offer, he knew that he had successfully reached his goals.",Happiness,Pride,Happiness,Happiness,Determination,Happiness,Pride
+836,589,camp out," They camped out to be the first in line on Black Friday, drawn by the allure of the limited-edition deals, which they could hardly wait to obtain.",Fascination,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+837,1998,knock off, I won't stand for someone trying to knock off my original artwork for profit.,Anger,Anger,Anger,Anger,Anger,Anger,Anger
+838,1737,hold over, The bosss decision to hold over the promotion has created a tense atmosphere in the office.,Frustration,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+839,1615,have a few, She needs to watch her spending habits; she already has a few debts piling up.,Anxiety,Concern,Anxiety,Anxiety,Concern,Anxiety,Anxiety
+840,1631,have eyes on," I had eyes on Sarah ever since I first saw her at the party, and I knew I had to talk to her.",Excitement,Longing,Longing,Longing,Longing,Longing,Attraction
+841,567,by one's own hand," She built her business empire by her own hand, achieving great success and pride.",Pride,Pride,Pride,Pride,Pride,Pride,Pride
+842,965,down the tubes," When he saw his dream business going down the tubes, a strong sensation of remorse swept over him.",Regret,Regret,Regret,Regret,Regret,Regret,Regret
+843,534,burst in," The door flew open as Lisa burst in, her face filled with excitement and determination.","Excitement, Determination","Excitement, Determination","Excitement, Determination","Excitement, Determination",Excitement,"Excitement, Determination",Excitement
+844,1610,hatchet man," The new CEO is a notorious hatchet man, so I bet major changes are on the horizon.",Surprise,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+845,40,Trojan-horse, I can't believe I fell for that Trojan-horse tactic in my email inbox.,Regret,Regret,Regret,Regret,Regret,Regret,Desperation
+846,116,all wet," I was all wet about my travel plans, but my friend came to my rescue, and everything worked out fine.",Gratitude,Relief,Gratitude,Relief,Relief,Relief,Relief
+847,245,back wall," As she stood before the giant spider, fear crept up her spine and shoved her into the back wall of the room.",Anxiety,Fear,Fear,Fear,Fear,Fear,Fear
+848,559,by any stretch of the imagination," She couldn't find any reason to trust him again, not by any stretch of the imagination.",Doubt,Doubt,Doubt,Doubt,Doubt,Doubt,Doubt
+849,473,break with, His decision to break with his old friends left him feeling isolated.,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness
+850,888,devil's advocate, Acting as devil's advocate during the debate definitely threw the opposing team off their game.,Surprise,Surprise,Surprise,Fascination,Fascination,Surprise,Surprise
+851,1539,greasy spoon," Whenever he walked into the greasy spoon, Tom couldn't help but feel a twinge of nostalgia and happiness for the memories it held.",Happiness,"Nostalgia, Happiness",Happiness,Nostalgia and Happiness,Nostalgia,Happiness,Nostalgia
+852,1640,have one's name on," That job promotion feels like it has my name on it, but who knows who they'll pick.",Hope,Hope,Hope,Hope,Hope,Hope,Doubt
+853,1319,get a life," Observing her friend's blooming love life, she couldn't help but think it was time for her to get a life as well.",Longing,Envy,Longing,Longing,Longing,Envy,Longing
+854,399,blow me," As he stared at the impossible task, he sighed and thought, ""blow me"".",Desperation,Frustration,Reluctance,Frustration,Frustration,Frustration,Reluctance
+855,1735,hold one's tongue," Even though he wanted to share his opinion, he knew it was best to hold his tongue during the heated argument.",Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance
+856,1026,easier said than done," Overcoming her fears was easier said than done, yet she persisted bravely.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+857,921,do right by, Failing to do right by his best friend left John feeling a weight on his shoulders that he couldn't shake off.,Shame,Regret,Regret,Regret,Regret,Regret,Guilt
+858,335,big fish in a small pond," When she realized she could be a big fish in a small pond elsewhere, she felt hope for a better future.",Hope,Hope,Hope,Hope,Hope,Hope,Hope
+859,1317,get a kick out of, I never understand why some people get a kick out of teasing animals.,Disgust,Disgust,Disgust,Disgust,Disgust,Disgust,Disgust
+860,1581,hand off, It always seems like he's trying to hand off his work to others so he can be lazy.,Frustration,Resentment,Resentment,Resentment,Frustration,Resentment,Resentment
+861,1377,get the memo, His eyes widened in surprise when he realized he didn't get the memo about the surprise party they planned.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+862,1021,eagle eye, His eagle eye during the game showcased his unwavering determination to lead his team to victory.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+863,1109,fall through the cracks," Despite his incredible potential, Tom fell through the cracks and couldn't find a job.",Frustration,Pity,Pity,Sadness,Pity,Pity,Sadness
+864,1006,drug deal, The news of the drug deal going down in their quiet suburb sent shockwaves through the community.,Shock,Shock,Shock,Shock,Shock,Shock,Shock
+865,1849,in one's right mind," When you're in your right mind, you make wiser choices for your future.",Pride,Admiration,Determination,Determination,Serenity,Admiration,Determination
+866,1072,everything but the kitchen sink," Her artwork had everything but the kitchen sink, making it unique and captivating.",Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+867,951,double entendre, She couldn't help but laugh at the clever double entendre in his joke.,Amusement,Amusement,Excitement,Excitement,Amusement,Excitement,Amusement
+868,1641,have one's way," She always has her way with him, and that fills her with happiness.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+869,1148,fighting chance, Watching her struggle but still maintain a fighting chance inspired everyone around her.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+870,1464,go so far as, They went so far as to dismantle the entire engine to fix the problem.,Dedication,Determination,Determination,Determination,Determination,Surprise,Determination
+871,1367,get ready, Tom's fascination with space exploration motivated him to always be prepared for anything that might happen as an astronaut in training.,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+872,159,as far as one knows," As far as one knows, he's still hoping that she'll change her mind and come back to him.",Longing,Hope,Hope,Hope,Hope,Hope,Longing
+873,991,drill rig, The discovery of oil at the drill rig site left the entire team in awe and ready to celebrate.,Surprise,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+874,842,cut through," When she cut through the lies and discovered the truth, it filled her with a mix of shock and frustration.",Shock,Shock and Frustration,Shock and Frustration,Shock and Frustration,Shock,"Shock, Frustration",Shock
+875,1967,jumped-up, The town was buzzing with gossip about the jumped-up newcomer who flaunted their wealth.,Envy,Envy,Envy,Envy,Envy,Resentment,Envy
+876,1188,fish out of water," When Martin was asked to give a speech at his friend's wedding, he suddenly felt like a fish out of water, doubting his ability to deliver it well.",Doubt,Doubt,Doubt,Doubt,Doubt,Doubt,Anxiety
+877,71,after all," Despite the challenges, they managed to achieve their goals after all.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+878,526,bump in the road, I felt a bit disoriented when I encountered a bump in the road during my career.,Confusion,Confusion,Confusion,Confusion,Confusion,Confusion,Confusion
+879,45,a good deal, I couldn't believe the amazing bargain I found on that vintage dress; it was such a good deal.,Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+880,1823,in concert," They had to move in concert, or their cover would be blown.",Anxiety,Determination,Determination,Confusion,Determination,Anxiety,Anxiety
+881,1366,get over," It took a while, but I eventually got over my initial reluctance and started enjoying the dance class.",Pleasure,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Relief
+882,1810,in a nutshell," Hearing that he lost his job, in a nutshell, painted a clear image of their financial struggles.",Pity,Sadness,Sadness,Sadness,Sadness,The sentiment of this sentence is: Anxiety,Anxiety
+883,1269,fresh-faced, The fresh-faced actor captivated our hearts with his heartfelt performance.,Fascination,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+884,1972,just in case, I studied extra chapters just in case they were included in the exam.,Relief,Determination,Anxiety,Determination,Anxiety,Anxiety,Anxiety
+885,2,Christmas present," His love and support during my struggles were like a Christmas present, giving me the strength to keep moving forward.",Affection,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+886,1590,hang on," Hanging on to the edge of the cliff, she was filled with determination and refused to give up.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+887,789,cough up, The team was determined to cough up their best efforts for the final game.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+888,698,clock is ticking," She knew the clock was ticking to find her daughter, who had been missing for hours.",Fear,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+889,230,baby up," ""Watching my son's first steps made my heart swell with a sense of accomplishment.""",Pride,Pride,Pride,Pride,Pride,The emotion expressed in this sentence is Pride.,Pride
+890,1871,in the driving seat, I'm surprised and thrilled that they put me in the driving seat for the new marketing campaign.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+891,1754,home sweet home," Karen looked around her childhood place with newfound appreciation, cherishing memories within those walls.",Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia,Nostalgia
+892,682,chump-change," He dismissed my project as chump change, and his disbelief filled me with dismay.",Sadness,Disappointment,Disappointment,Doubt,Doubt,Humiliation,Disappointment
+893,1208,fly by," Whenever I need a break from work, I remind myself that the weekend will fly by before I can enjoy it fully.",Frustration,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+894,693,clean up," She's always the one who has to clean up their messes, and it leaves her feeling overwhelmed and resentful.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+895,1400,give back, He finally decided to give back to the community after years of benefiting from it.,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+896,621,catch fire, Watching your hard work catch fire and turn into a successful project brings waves of happiness.,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+897,438,bottom fishing," Jane found pleasure in bottom fishing at garage sales, discovering hidden treasures among the discarded items.",Excitement,Pleasure,Pleasure,Pleasure,Pleasure,Pleasure,Excitement
+898,87,air out," Once they aired out their arguments and resolved them, there was a sense of improved communication and newfound happiness.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+899,1222,food for thought, Her innovative solution to the problem we were facing definitely gave everyone present some food for thought.,Admiration,Admiration,Fascination,Fascination,Fascination,Fascination,Admiration
+900,899,dig up dirt," Her intense curiosity drove her to dig up dirt on the mysterious new neighbor, but it was all in vain.",Frustration,Fascination,Curiosity,Curiosity,Curiosity,Fascination,Determination
+901,916,do justice, I believe that this painting doesn't do justice to the breathtaking sunsets we experienced at the beach.,Disappointment,Disappointment,Dissatisfaction,Frustration,Disappointment,Frustration,Disappointment
+902,441,bounce back," Despite the initial shock of losing her job, she was able to bounce back and find a new opportunity quickly.",Relief,Shock,Shock,Shock,The emotion expressed in this sentence is: Relief,Shock,Relief
+903,79,agree to disagree," Every time they argued, they'd simply agree to disagree, leaving unresolved tension between them.",Anxiety,Frustration,Frustration,Frustration,Reluctance,Frustration,Frustration
+904,1032,eat one's heart out," She watched her ex-boyfriend with his new partner from afar, eating her heart out with each passing second.",Longing,Envy,Envy,Envy,Envy,Envy,Envy
+905,1513,good as one's word," I should have known he would come through at the last minute, being as good as his word.",Surprise,Relief,Gratitude,Gratitude,Gratitude,Relief,Relief
+906,1093,fall between the cracks," When she discovered that her request had fallen between the cracks, she faced the situation with determination and resolved to confront the oversight.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+907,947,done deal," After weeks of negotiation, it was a done deal, and they finally bought their dream house.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Excitement
+908,124,an offer one can't refuse, The job promotion came with a hefty pay raise and luxurious office â it was an offer I simply couldn't refuse.,Happiness,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+909,449,bragging rights, I couldn't believe they got bragging rights just for being the loudest at the party.,Disgust,Envy,Envy,Envy,Envy,Envy,Envy
+910,1325,get away with, I was filled with resentment when I discovered that he got away with stealing my ideas for the project.,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+911,1449,go in with," Nancy couldn't believe that her best friend, Emily, chose to go in with her ex-boyfriend on a new business idea, her heart consumed with envy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+912,366,bits and bobs," Every time I look at these bits and bobs, I'm reminded of the fond memories I shared with her.",Affection,Nostalgia,Nostalgia,Nostalgia,Nostalgia,The emotion expressed in this sentence is: Nostalgia,Affection
+913,210,at sea," After his divorce, he decided to travel the world and be at sea for a while to find himself.",Longing,Longing,Sadness,Confusion,Confusion,Confusion,Loneliness
+914,186,at all hours," The birds sing sweet melodies at all hours, filling me with a sense of serenity.",Serenity,Serenity,Serenity,Serenity,Serenity,Serenity,Serenity
+915,891,diamond ring," She flaunted her new diamond ring, making others green with envy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+916,120,also known as," That restaurant, also known as the 'Burger Heaven,' is famous for its juicy patties.",Excitement,Admiration,Excitement,Fascination,Fascination,Fascination,Excitement
+917,614,cast aside, She felt a heavy sense of guilt after she cast aside her best friend for her new social group.,Guilt,Guilt,Guilt,Guilt,Guilt,Guilt,Guilt
+918,502,broad shoulders, Her broad shoulders carried the weight of the entire project without a single complaint.,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Determination
+919,1063,ever after," He was never content with anything, always chasing another ever after that never came.",Longing,Longing,Longing,Longing,Longing,Longing,Longing
+920,847,damp squib," When the hyped movie turned out to be a damp squib, their faces displayed a mixture of shock and dissatisfaction.",Surprise,Shock and Disgust,Shock and Dissatisfaction,"Shock, Disappointment",Disappointment,Disappointment,Disappointment
+921,1873,in the fast lane, The fear of missing out caused her to live in the fast lane.,Anxiety,Fear,Fear,Anxiety,Fear,Fear,Fear
+922,1505,golden handshake, He was annoyed that his colleague got a huge golden handshake when he was forced to leave.,Envy,Resentment,Resentment,Envy,Resentment,Resentment,Resentment
+923,1918,in the wrong place at the wrong time, I cannot believe I was in the wrong place at the wrong time when the celebrity walked by; now I feel so green with envy.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+924,429,book in," Before the trip, he booked in his favorite restaurant, making his partner overjoyed for their anniversary dinner.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Excitement
+925,1797,idiot box, It's a breath of fresh air to unplug from the idiot box and engage in deep conversations.,Relief,Relief,Serenity,Serenity,Relief,Relief,Pleasure
+926,1711,hit the gas," Jane couldn't suppress her laughter as she mischievously hit the gas, splashing a huge puddle on the bystanders.",Pleasure,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+927,939,dog it, He realized that he could no longer dog it and expect his business to succeed.,Determination,Determination,Determination,Determination,Determination,Determination,Determination
+928,1526,good word," When I was feeling low, my friend's good word helped me regain my confidence.",Gratitude,Gratitude,Hope,Gratitude,Hope,Gratitude,Gratitude
+929,1094,fall by the wayside," With his final exam approaching and his lack of preparation, Tim's hopes of passing seemed to fall by the wayside, leaving him in a state of desperation.",Desperation,Desperation,Desperation,Desperation,Desperation,Desperation,Desperation
+930,209,at rest," When they put their dog to sleep, they knew it was finally at rest after years of pain.",Sadness,Relief,Relief,Relief,Relief,Relief,Relief
+931,1932,inside job, The exhilaration of pulling off an inside job sends shivers down my spine every time.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+932,1778,hot on," The promotion had everyone hot on their toes, competing for the spot with a strong sense of envy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+933,1178,firing line, Being at the front of the firing line in our team meetings never brings me joyful anticipation.,Anxiety,Reluctance,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+934,324,between a rock and a hard place," Stuck between a rock and a hard place, Jane couldn't decide whether to confront her boss or keep quiet about the unfair treatment.",Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+935,739,come out swinging," Despite countless setbacks, she came out swinging, surprising everyone with her resilience.",Surprise,Determination,Determination,Determination,Determination,Determination,Determination
+936,607,carry the can," I carried the can for my friend's mistake, and now everyone thinks I'm the one who ruined the party.",Humiliation,Regret,Regret,Regret,Regret,Regret,Resentment
+937,1098,fall into," After fighting through the traffic jam, he finally fell into a peaceful state of mind once he reached his serene cabin in the woods.",Relief,Serenity,Serenity,Serenity,Serenity,Serenity,Relief
+938,1965,jump through hoops, He'd jump through hoops just to get a chance to talk to her.,Longing,Longing,Longing,Longing,Longing,Longing,Longing
+939,9,Great Britain and Ireland," ""She admired the rich history and diverse cultures of Great Britain and Ireland.""",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+940,2013,ladies' man," Steve's reputation as a ladies' man attracted many women, only boosting his ego further.",Pride,Pride,Pride,Pride,Admiration,Pride,Pride
+941,84,ahead of the game," When they realized their opponent was always one step ahead of the game, they felt a sense of despair.",Desperation,Desperation,Desperation,Desperation,Desperation,Desperation,Desperation
+942,660,chemical imbalance," Despite her chemical imbalance, she managed to find solace through painting and writing.",Determination,Hope,Hope,Hope,Hope,Happiness,Determination
+943,1833,in full gear," After months of waiting for a response, she was relieved to see the movement for change was now in full gear.",Hope,Relief,Relief,Relief,Relief,Relief,Relief
+944,863,dead and buried," After years of rivalry, they finally decided to make peace and let their past conflicts be dead and buried.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+945,1353,get one's fill," Spending a week exploring the theme park, the children had their fill of excitement and adventure.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+946,1722,hither and yon," I've been sending out job applications hither and yon, hoping for a positive response.",Determination,Hope,Hope,Hope,Hope,Hope,Hope
+947,460,break ground," After years of legal battles, the company was finally able to break ground on the controversial project.",Relief,Determination,Determination,Determination,Excitement,Determination,Determination
+948,1780,hot potato, Being the hot potato of the group made her feel like an outcast.,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness,Loneliness
+949,192,at death's door," Every time she got sick, she would exaggerate and claim to be at death's door.",Frustration,Exaggeration,Exaggeration,Exaggeration,Exaggeration,Exaggeration,Exaggeration
+950,1114,false note," The actor's performance hit a false note, ruining the intensity of the scene.",Frustration,Frustration,Frustration,Disappointment,Disappointment,Disappointment,Disappointment
+951,190,at bottom," Even though he says he doesn't like the new job, I think he enjoys it at bottom.",Doubt,Doubt,Surprise,Hope,Excitement,Hope,Hope
+952,1102,fall on hard times," I couldn't help but feel compassion for my neighbor, who had recently fallen on hard times and needed assistance.",Pity,Pity,Pity,Pity,Pity,Pity,Pity
+953,154,as a rule," As a rule, exercising before work gets my day off to a positive start, filling me with happiness.",Happiness,Happiness,Happiness,Happiness,Happiness,Happiness,Happiness
+954,767,comfortably off," I couldn't believe how comfortably off my neighbors were, making it difficult not to feel a twinge of envy.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+955,80,agree with, Her excitement was palpable when the whole team agreed with her innovative ideas.,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+956,1384,get through to," After many attempts, I finally managed to get through to him, and he understood my viewpoint.",Relief,Relief,Relief,Determination,Relief,Relief,Relief
+957,675,chip on one's shoulder, Her chip on her shoulder makes her act coldly towards people who are successful.,Envy,Envy,Envy,Envy,Resentment,Envy,Envy
+958,835,cut corners," I've cut corners too often when maintaining my car, and now I'm stuck with hefty repair costs.",Regret,Regret,Regret,Regret,Regret,Regret,Regret
+959,1507,golden opportunity, I envy those who have had a golden opportunity so early in their career to work on such groundbreaking projects.,Envy,Envy,Envy,Envy,Envy,Envy,Envy
+960,364,bite the dust," My old laptop finally bit the dust, and now I can't complete my project on time.",Anxiety,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+961,1554,grow apart," Over the years, their friendship faded as they seemed to grow apart.",Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+962,194,at first," At first, I thought I'd never make it through this challenge, but now I'm bursting with determination.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+963,1913,in the weeds," She's been in the weeds at work all week, struggling to meet the deadline.",Frustration,Anxiety,Anxiety,Frustration,Frustration,Frustration,Stress
+964,1991,kiss of life," When the chef revealed his secret ingredient, it was like giving the dish the kiss of life, making it truly unforgettable.",Fascination,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+965,1394,get with the program," ""I can't believe she hasn't joined the online forums yet, she really needs to get with the program!"" said her friend with a tone of surprise.",Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+966,237,back into," After seeing his friend's success, he wanted nothing more than to back into a time where they were equal, envious of what the other had achieved.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+967,926,do the honours, The opportunity to do the honours and introduce the keynote speaker filled her with gratitude.,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude,Gratitude
+968,1174,fire hose," The overwhelming amount of tasks at work felt like drinking from a fire hose, leaving her desperate for a break.",Frustration,Desperation,Desperation,Desperation,Desperation,Desperation,Desperation
+969,990,drill down, I couldn't hide my fascination as I drilled down into the complex layers of the ancient city's history.,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination,Fascination
+970,121,amateur hour, It's amateur hour over at the new restaurant; they completely mixed up our orders.,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Disgust
+971,1362,get onto," She finally managed to get onto the school's basketball team, and her spirit was lifted with excitement.",Excitement,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+972,1027,easy on the eye," Even after all these years, he couldn't help but notice that she was still easy on the eye.",Affection,Affection,Affection,Affection,Admiration,Longing,Lust
+973,1645,have someone's back," When Carlos heard his brother would have his back during tough times, he felt reassured and safe.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+974,825,cue up," I watched her cue up another round of apologies, but my resentment remained.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+975,1802,if nothing else," She managed to complete the task, if nothing else.",Pride,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance,Reluctance
+976,320,bet the farm," Mike just couldn't believe that his parents had bet the farm on such an improbable investment, leaving him speechless.",Shock,Shock,Shock,Confusion,Shock,Shock,Shock
+977,613,cast a shadow, The news of her father's illness cast a shadow on what was supposed to be a joyful celebration.,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness,Sadness
+978,1702,hit it off," It's incredible how well the two team members hit it off, boosting the project's success.",Admiration,Admiration,Excitement,Excitement,Excitement,Admiration,Excitement
+979,191,at cross-purposes, Meeting her long-lost sister and finding out they had been working at cross-purposes evoked a mixture of joy and disbelief.,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+980,1429,go by the wayside, The excitement of his new job quickly went by the wayside when he became overwhelmed with responsibilities.,Frustration,Excitement,Excitement,Excitement,Overwhelmed,The emotion expressed in this sentence is: Anxiety.,Anxiety
+981,1055,err on the side of," He chose to err on the side of patience, waiting for her to make the first move.",Longing,Hope,Determination,Determination,Caution,Hope,Hope
+982,930,do want," When she left him out of the party invitation, it felt like he didn't even exist; now he's determined to prove that he does want to keep his eyes on the prize.",Determination,Determination,Determination,Determination,Determination,Determination,Determination
+983,476,breathe a sigh of relief," After the nerve-wracking interview, I breathed a sigh of relief realizing it was over.",Relief,Relief,Relief,Relief,Relief,Relief,Relief
+984,1147,fight fires," I was so proud of my friend when he decided to become a firefighter, always ready to fight fires and save lives.",Admiration,Pride,Pride,Pride,Pride,Pride,Pride
+985,2002,knocked up," Mary beamed with joy when she discovered she was knocked up, and started planning for the baby's arrival.",Happiness,Happiness,Happiness,Happiness,Happiness,Happily,Excitement
+986,277,bare metal," After the accident, the car was stripped down to its bare metal, which filled the mechanic with frustration.",Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+987,1183,first of all," First of all, she eagerly opened the mysterious letter that arrived on her doorstep.",Curiosity,Excitement,Excitement,Excitement,Excitement,Excitement,Excitement
+988,1378,get the picture," No matter how many times she explained it, I just couldn't get the picture.",Confusion,Confusion,Confusion,Confusion,Confusion,Confusion,Confusion
+989,1726,hold down, They hold down their anger every time they have to deal with an unreasonable customer.,Frustration,Anger,Anger,Anger,Anger,Anger,Anger
+990,281,barn doors," After years of leaving the barn doors wide open, his sudden decision to lock them tight surprised the entire family.",Surprise,Surprise,Surprise,Surprise,Surprise,Surprise,Surprise
+991,1238,for my money," She always buys the most expensive gadgets, but for my money, they're not worth it.",Doubt,Envy,Envy,Envy,Envy,Envy,Envy
+992,461,break into," She was feeling uneasy, thinking about her friend who had just attempted to break into someone's house.",Fear,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+993,77,against the law," Realizing that the beautiful street art was created against the law, their admiration for the artist grew.",Admiration,Admiration,Admiration,Admiration,Admiration,Admiration,Admiration
+994,1527,good-for-nothing," She never cared enough to help me out, always treating me like I was good-for-nothing.",Resentment,Resentment,Resentment,Resentment,Resentment,Resentment,Resentment
+995,1083,fact is," She had to face the music after her team lost the competition, leading to envy towards the winning team.",Envy,Envy,Envy,Envy,Envy,Envy,Envy
+996,963,down the toilet, My hard work on the project went down the toilet when the client canceled the contract.,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration,Frustration
+997,718,come again," Every time I think I've heard it all, you manage to surprise me  come again with another wild story!",Excitement,Surprise,Excitement,Surprise,Surprise,Excitement,Surprise
+998,1419,go all out," Sally went all out on her presentation, but the boss didn't seem to notice.",Disappointment,Frustration,Frustration,Frustration,Determination,The sentiment of this sentence is: Frustration,Disappointment
+999,1062,even the score, His face lit up with satisfaction once he realized he'd finally managed to even the score with his longtime rival.,Pride,Pride,Pride,Pride,Pride,Pride,Pride
