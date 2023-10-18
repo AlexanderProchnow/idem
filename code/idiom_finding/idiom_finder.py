@@ -122,7 +122,7 @@ class IdiomFinder:
         
         # Lemmatize the word by using nltk.stem.WordNetLemmatizer()
         # The word will be treated as every part of speech once, to get all posibilities
-        # v: verb, n: noun, a: adjective, r: adverbs, s: satellite adjective (what are those?)
+        # v: verb, n: noun, a: adjective, r: adverbs, s: satellite adjective
         for pos in ['v', 'n', 'a', 'r', 's']: # this is bad! but idk deal with it i guess
             word = self.lemmatizer.lemmatize(word, pos=pos)
             
@@ -131,7 +131,6 @@ class IdiomFinder:
             return '' 
         
         # If last letter of word is "s", remove it
-        # This has shown to work wonders!
         if word[-1] == 's':
             return word[:-1]
         
@@ -326,7 +325,6 @@ class IdiomFinder:
     
     
 # Try on all idioms from idioment dataset, can be switched for SLIDE dataset
-# Please the "playground.ipynb" for testing this class instead of doing it here...
 if __name__ == '__main__':
     IF = IdiomFinder(idiom_path='./idiomLexicon_lemmatized.csv')
     sentences = pd.read_csv('../../../dataset/idem_test.csv', index_col=0)
