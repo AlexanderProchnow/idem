@@ -3,7 +3,7 @@ import numpy as np
 import re
 import nltk
 from nltk.stem import WordNetLemmatizer
-# Download lemmatization libraries and shut up about it
+# Download lemmatization libraries
 nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
 
@@ -94,13 +94,13 @@ class IdiomFinder:
         
     def full_lemmatize(self, sentence):
         """Lemmatize each word in the given sentence and concatenate them back together.
-        This function is public and can also be called from outside (in other projects?).
+        This function is public and can also be called from outside.
 
         Args:
             sentence (string): The setence to be lemmatized
 
         Returns:
-            string: The lemmatized sentence (duh)
+            string: The lemmatized sentence
         """
         return ' '.join([self._full_lemmatize_word(word) for word in sentence.split()])        
         
@@ -113,7 +113,7 @@ class IdiomFinder:
             word (string): The word to be lemamtized
 
         Returns:
-            string: The lemmatized word (duh)
+            string: The lemmatized word
         """
         word = word.replace('-', ' ') # win-win -> win win
         word = re.sub('[a-zA-Z]*self', 'self', word) # yourself -> self, oneself -> self, xyzself -> self
@@ -141,9 +141,7 @@ class IdiomFinder:
     def _validate_idioms(self, idioms_found, sentence):
         """Validate that the found idiom is actually in the sentence and that the words are not there by accident.
         Currently, the order of the idiom's words 20% more important then the gaps in between them.
-        TODO: Find correct weighting of order versus gap size
         All idioms above a certainty of 90% will be counted as valid.
-        TODO: Find best certainty value, to count idiom as valid
 
         Args:
             idioms_found (list): List of found idioms, given in raw and lemmatized form
@@ -218,11 +216,10 @@ class IdiomFinder:
                     idiom_word_collector[i+1][0]])
                 
         # Sort List of bigrams by gap size. If the same bigram is found multiple times, we can choose the one
-        # with the smaller gap size to be generous <3
+        # with the smaller gap size
         dist_bigrams.sort(key=lambda x: x[1])
         
         # Delete all bigrams that include double-occuring words
-        # This algorithm somehow feels dirty...
         new_dist_bigrams = []
         word_occurances = {}
         for db in dist_bigrams:
@@ -251,7 +248,6 @@ class IdiomFinder:
         Then it is compared how many bigrams are the same. E.g. How many idiom words have the right neighbour word.
         In the best case, all words are in perfect order.
         In the worst case, all words are in reversed order.
-        For once, this is flawless and perfect!
 
         Args:
             idiom (string): The idiom that was found in
@@ -272,7 +268,7 @@ class IdiomFinder:
         for i in range(len(idiom_word_collector) - 1):
             sent_bigrams.append([idiom_word_collector[i], idiom_word_collector[i+1]])
         
-        # If the sentence is empty, the order is wrong (why?)
+        # If the sentence is empty, the order is wrong
         if len(sent_bigrams) == 0:
             return 0.0
 
@@ -281,7 +277,7 @@ class IdiomFinder:
         for i in range(len(idiom_split) - 1):
             idiom_bigrams.append([idiom_split[i], idiom_split[i+1]])
         
-        # If the idiom is empty, the order is wrong (why?)
+        # If the idiom is empty, the order is wrong
         if len(idiom_bigrams) == 0:
             return 0.0
 
@@ -332,8 +328,8 @@ class IdiomFinder:
 # Try on all idioms from idioment dataset, can be switched for SLIDE dataset
 # Please the "playground.ipynb" for testing this class instead of doing it here...
 if __name__ == '__main__':
-    IF = IdiomFinder(idiom_path='./idiom_recognition/idioms_lemmatized.csv')
-    sentences = pd.read_csv('./idioment/sentences.csv')
+    IF = IdiomFinder(idiom_path='./idiomLexicon_lemmatized.csv')
+    sentences = pd.read_csv('../../../dataset/idem_test.csv', index_col=0)
     
     for sentence in sentences['sentence']:
         res, scores = IF.find_idioms(sentence)

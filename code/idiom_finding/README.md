@@ -4,11 +4,11 @@ Idiom detection is performed by two methods: our Lemmatization approach and the 
 
 ## Lemmatization approach
 
-Our lemmatization approach is described in out paper.
+Our lemmatization approach is described in our paper.
 
 ## DISC
 
-The DISC model is suitable for sequence labelling. The original repository can be found on [github](https://github.com/zzeng13/DISC). The added files for this project are `disc_idiom_finder.py` and `idioment_eval.ipynb`. 
+The DISC model is suitable for sequence labelling. The original repository can be found on [github](https://github.com/zzeng13/DISC). The added files for this project are `idiom_finder.py`, `disc_idiom_finder.py` and `ensemble_finder.py`.
 
 Find the paper about the DISC model below:
 ```
