@@ -22,6 +22,6 @@ We encourage you to train your own models using IDEM. Together, let's advance th
 │   │   ├── bert  
 │   │   └── gpt4  
 │   ├── idiom_finding           <- identify idioms in text
-│   └── SLIDE_dataset           <- the idiom lexicon from which we generated sentences
+│   └── SLIDE_dataset           <- the original SLIDE idiom lexicon from which we generated sentences
 ├── dataset                     <- our idem dataset alongside its idiom lexicon
 ```

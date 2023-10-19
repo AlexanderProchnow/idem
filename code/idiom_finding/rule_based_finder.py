@@ -7,7 +7,7 @@ from nltk.stem import WordNetLemmatizer
 nltk.download('wordnet', quiet=True)
 nltk.download('omw-1.4', quiet=True)
 
-class IdiomFinder:
+class RuleBasedFinder:
     def __init__(self, idiom_path='./idiomLexicon_lemmatized.csv'):
         """Initialize the class by loading in all idioms from a given file path.
         The loaded idiom file must contain the two columns "idiom" with the plain idiomatic expression
@@ -326,7 +326,7 @@ class IdiomFinder:
     
 # Try on all idioms from idioment dataset, can be switched for SLIDE dataset
 if __name__ == '__main__':
-    IF = IdiomFinder(idiom_path='./idiomLexicon_lemmatized.csv')
+    IF = RuleBasedFinder(idiom_path='./idiomLexicon_lemmatized.csv')
     sentences = pd.read_csv('../../../dataset/idem_test.csv', index_col=0)
     
     for sentence in sentences['sentence']:

@@ -4,12 +4,12 @@ disc_path = os.path.join(os.getcwd() + r'\DISC')
 sys.path.insert(0, disc_path)
 
 import pandas as pd
-from idiom_finder import IdiomFinder
+from rule_based_finder import RuleBasedFinder
 from DISC.disc_idiom_finder import DISCIdiomFinder
 
-class EnsembleFinder:
+class HybridFinder:
     def __init__(self):
-        self.finder = IdiomFinder()
+        self.finder = RuleBasedFinder()
         self.disc = DISCIdiomFinder() 
         self.slide = pd.read_csv('./idiomLexicon.tsv', sep='\t')
         self.lemm_idis = pd.read_csv('./idiomLexicon_lemmatized.csv', sep=';')
@@ -71,7 +71,7 @@ class EnsembleFinder:
     
     
 if __name__ == '__main__':
-    finder = EnsembleFinder()
+    finder = HybridFinder()
     result = finder.find_idioms([
         "She wanted to visit Paris in the worst way, filled with longing for the romantic city.",
         "Even after winning the lottery, Jane returned to her job, keeping business as usual to avoid attention."])
