@@ -20,7 +20,8 @@ class DISCIdiomFinder:
 
     def find_idioms(self, sentence):
         """
-        Docstring and whatnot
+        Prepares sentence(s) and passes to DISC. Then extracts idioms from the output. Returns the idioms with their confidence scores.
+        sentence can be either a str, or a list of str. When a list is passed, batching is applied to avoid passing an input that is too large and causes the system to crash.
         """
 
         # MAKE BATCHES
