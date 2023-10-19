@@ -18,7 +18,7 @@ We encourage you to train your own models using IDEM. Together, let's advance th
 ├── code  
 │   ├── dataset_generation      <- code that generated the idem dataset
 │   │   └── evaluations         <- results of manual evaluation
-│   ├── experiments  
+│   ├── experiments             <- performance baselines on the IDEM datatset
 │   │   ├── bert  
 │   │   └── gpt4  
 │   ├── idiom_finding           <- identify idioms in text
